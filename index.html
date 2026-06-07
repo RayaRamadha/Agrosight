@@ -1,0 +1,1083 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>AgroSight</title>
+  <link href="https://fonts.cdnfonts.com/css/creato-display" rel="stylesheet" />
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: 'Creato Display', sans-serif;
+      background: #111;
+      color: #fff;
+      overflow-x: hidden;
+    }
+    a { text-decoration: none; color: inherit; }
+
+    /* ── NAVBAR ── */
+    nav {
+      position: absolute;
+      top: 0; left: 0; right: 0;
+      z-index: 10;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 22px 48px;
+    }
+    .logo img { height: 46px; }
+    .nav-links {
+      display: flex;
+      gap: 48px;
+      list-style: none;
+    }
+    .nav-links a {
+      font-size: 15px;
+      font-weight: 700;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      color: #fff;
+      position: relative;
+    }
+    .nav-links a:hover::after {
+      content: '';
+      position: absolute;
+      bottom: -4px; left: 0; right: 0;
+      height: 2px;
+      background: #fff;
+    }
+
+    /* ── HERO ── */
+    .hero {
+      position: relative;
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      padding: 100px 48px 80px;
+      overflow: hidden;
+    }
+    .hero-bg {
+      position: absolute;
+      inset: 0;
+      background: url('Image/BG_home.jpg') center/cover no-repeat;
+      z-index: 0;
+      animation: bgzoom 20s ease-in-out infinite alternate;
+    }
+    .hero-bg::after {
+      content: '';
+      position: absolute;
+      inset: 0;
+      background: rgba(0,0,0,0.52);
+    }
+    @keyframes bgzoom {
+      from { transform: scale(1); }
+      to   { transform: scale(1.06); }
+    }
+    .hero-content {
+      position: relative;
+      z-index: 2;
+      text-align: center;
+      width: 100%;
+    }
+    h1 {
+      font-size: clamp(48px, 7vw, 100px);
+      font-weight: 900;
+      line-height: 1.0;
+      letter-spacing: 0.01em;
+      text-transform: uppercase;
+      color: #fff;
+      margin-bottom: 18px;
+      opacity: 0;
+      animation: fadeup 0.7s 0.1s ease forwards;
+    }
+    .hero-sub {
+      font-size: clamp(12px, 1.3vw, 15px);
+      font-weight: 500;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      color: #fff;
+      line-height: 1.75;
+      margin-bottom: 4px;
+      opacity: 0;
+      animation: fadeup 0.7s 0.25s ease forwards;
+    }
+    .hero-highlight {
+      font-size: clamp(12px, 1.2vw, 14px);
+      font-weight: 800;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      color: #F5C518;
+      margin-bottom: 24px;
+      opacity: 0;
+      animation: fadeup 0.7s 0.4s ease forwards;
+    }
+    .cards {
+      display: grid;
+      grid-template-columns: repeat(3, minmax(0, 340px));
+      gap: 20px;
+      margin-bottom: 28px;
+      justify-content: center;
+      opacity: 0;
+      animation: fadeup 0.7s 0.55s ease forwards;
+    }
+    .card {
+      border: 3px solid rgba(245, 197, 24, 0.7);
+      border-radius: 12px;
+      padding: 16px 18px 20px;
+      background: rgba(0,0,0,0.35);
+      backdrop-filter: blur(6px);
+      transition: background 0.25s, transform 0.25s;
+    }
+    .card:hover {
+      background: rgba(245, 197, 24, 0.08);
+      transform: translateY(-3px);
+    }
+    .card h3 {
+      font-size: clamp(13px, 1.2vw, 15px);
+      font-weight: 900;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      color: #fff;
+      margin-bottom: 12px;
+    }
+    .card p {
+      font-size: clamp(11px, 0.9vw, 13px);
+      font-weight: 500;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      color: rgba(255,255,255,0.85);
+      line-height: 1.75;
+    }
+    .cta-wrap {
+      opacity: 0;
+      animation: fadeup 0.7s 0.7s ease forwards;
+    }
+    .btn-cta {
+      display: inline-block;
+      background: #F5C518;
+      color: #111;
+      font-family: 'Creato Display', sans-serif;
+      font-size: 18px;
+      font-weight: 700;
+      letter-spacing: 0.04em;
+      padding: 18px 60px;
+      border: none;
+      cursor: pointer;
+      border-radius: 4px;
+      transition: background 0.2s, transform 0.2s;
+    }
+    .btn-cta:hover { background: #FFD635; transform: translateY(-2px); }
+    .chevrons {
+      position: absolute;
+      bottom: 0; left: 0; right: 0;
+      z-index: 3;
+      pointer-events: none;
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-end;
+    }
+    .chevrons img { width: 280px; display: block; }
+    .chevrons img.flip { transform: scaleX(-1); }
+    .footer-tag {
+      position: absolute;
+      bottom: 22px; left: 0; right: 0;
+      z-index: 4;
+      font-size: 13px;
+      font-weight: 900;
+      letter-spacing: 0.18em;
+      text-transform: uppercase;
+      color: #F5C518;
+      text-align: center;
+    }
+
+    /* ══ SCROLL REVEAL ══ */
+    .reveal {
+      opacity: 0;
+      transform: translateY(36px);
+      transition: opacity 0.75s ease, transform 0.75s ease;
+    }
+    .reveal.visible { opacity: 1; transform: translateY(0); }
+
+    /* ══ SECTION SHARED ══ */
+    .sec {
+      padding: 96px 52px;
+      background: #111;
+    }
+    .sec-inner {
+      max-width: 1100px;
+      margin: 0 auto;
+    }
+    .sec-label {
+      font-size: 11px;
+      font-weight: 800;
+      letter-spacing: 0.22em;
+      text-transform: uppercase;
+      color: #F5C518;
+      margin-bottom: 14px;
+    }
+    .sec-title {
+      font-size: clamp(30px, 3.6vw, 52px);
+      font-weight: 900;
+      line-height: 1.05;
+      text-transform: uppercase;
+      color: #fff;
+      margin-bottom: 52px;
+    }
+    .sec-title span { color: #F5C518; }
+
+    /* ══ HOW IT WORKS ══ */
+    .steps {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 40px 64px;
+    }
+    .step { display: flex; gap: 22px; align-items: flex-start; }
+    .step-num {
+      font-size: 44px;
+      font-weight: 900;
+      color: rgba(245,197,24,0.2);
+      line-height: 1;
+      flex-shrink: 0;
+      width: 58px;
+    }
+    .step-body h4 {
+      font-size: 13px;
+      font-weight: 900;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      color: #fff;
+      margin-bottom: 10px;
+    }
+    .step-body p {
+      font-size: 13px;
+      font-weight: 400;
+      letter-spacing: 0.04em;
+      color: rgba(255,255,255,0.55);
+      line-height: 1.8;
+    }
+
+    /* ══ STATS ══ */
+    .sec-stats {
+      padding: 64px 52px;
+      background: #F5C518;
+    }
+    .stats-grid {
+      max-width: 1100px;
+      margin: 0 auto;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+    .stat-item { text-align: center; flex: 1; }
+    .stat-num {
+      font-size: clamp(40px, 5vw, 68px);
+      font-weight: 900;
+      color: #111;
+      line-height: 1;
+      margin-bottom: 8px;
+    }
+    .stat-num sup { font-size: 0.55em; vertical-align: super; }
+    .stat-lbl {
+      font-size: 11px;
+      font-weight: 800;
+      letter-spacing: 0.16em;
+      text-transform: uppercase;
+      color: rgba(0,0,0,0.55);
+    }
+    .stat-div { width: 1px; height: 80px; background: rgba(0,0,0,0.18); flex-shrink: 0; }
+
+    /* ══ COMMODITIES ══ */
+    .comm-grid {
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      gap: 16px;
+    }
+    .comm-card {
+      border: 2px solid rgba(245,197,24,0.25);
+      border-radius: 12px;
+      padding: 28px 16px 20px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 14px;
+      background: rgba(0,0,0,0.35);
+      transition: border-color 0.25s, background 0.25s, transform 0.25s;
+    }
+    .comm-card img {
+      width: 80px;
+      height: 80px;
+      object-fit: contain;
+      filter: drop-shadow(0 4px 12px rgba(0,0,0,0.5));
+      transition: transform 0.3s ease;
+    }
+    .comm-card:hover img {
+      transform: scale(1.1) translateY(-4px);
+    }
+    .comm-card:hover {
+      border-color: #F5C518;
+      background: rgba(245,197,24,0.06);
+      transform: translateY(-4px);
+    }
+    .comm-card span {
+      font-size: 11px;
+      font-weight: 800;
+      letter-spacing: 0.14em;
+      text-transform: uppercase;
+      color: rgba(255,255,255,0.65);
+    }
+
+    /* ══ CTA BOTTOM ══ */
+    .sec-cta { background: #0d0d0d; }
+    .cta-bot-inner { text-align: center; }
+    .cta-bot-sub {
+      font-size: 13px;
+      font-weight: 400;
+      letter-spacing: 0.06em;
+      color: rgba(255,255,255,0.45);
+      text-transform: uppercase;
+      margin-top: -32px;
+      margin-bottom: 40px;
+      line-height: 1.8;
+    }
+    .btn-cta-bot {
+      display: inline-block;
+      background: #F5C518;
+      color: #111;
+      font-family: 'Creato Display', sans-serif;
+      font-size: 15px;
+      font-weight: 900;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      padding: 20px 56px;
+      border-radius: 5px;
+      transition: background 0.2s, transform 0.2s;
+    }
+    .btn-cta-bot:hover { background: #FFD635; transform: translateY(-2px); }
+
+    /* ══ FOOTER ══ */
+    footer {
+      background: #0a0a0a;
+      border-top: 1px solid rgba(255,255,255,0.07);
+      padding: 36px 52px;
+    }
+    .foot-inner {
+      max-width: 1100px;
+      margin: 0 auto;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      flex-wrap: wrap;
+      gap: 20px;
+    }
+    .foot-links { display: flex; gap: 32px; }
+    .foot-links a {
+      font-size: 12px;
+      font-weight: 700;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      color: rgba(255,255,255,0.45);
+      transition: color 0.2s;
+    }
+    .foot-links a:hover { color: #F5C518; }
+    .foot-copy {
+      font-size: 11px;
+      letter-spacing: 0.1em;
+      color: rgba(255,255,255,0.2);
+      text-transform: uppercase;
+    }
+
+    /* ══ COMMODITIES BG ══ */
+    .sec-comm-bg {
+      position: relative;
+      overflow: hidden;
+    }
+    .sec-comm-bg::before {
+      content: '';
+      position: absolute;
+      inset: 0;
+      background: url('Image/BG_home.jpg') center/cover no-repeat;
+      filter: brightness(0.25) saturate(0.7);
+      z-index: 0;
+    }
+    .sec-comm-bg .sec-inner {
+      position: relative;
+      z-index: 1;
+    }
+
+    @keyframes fadeup {
+      from { opacity: 0; transform: translateY(24px); }
+      to   { opacity: 1; transform: translateY(0); }
+    }
+
+    /* ══ GROQ CHAT WIDGET ══ */
+    #chat-toggle {
+      position: fixed;
+      bottom: 28px;
+      right: 28px;
+      z-index: 9999;
+      width: 58px;
+      height: 58px;
+      background: #F5C518;
+      border: none;
+      border-radius: 50%;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      box-shadow: 0 4px 24px rgba(245,197,24,0.45);
+      transition: background 0.2s, transform 0.2s, box-shadow 0.2s;
+    }
+    #chat-toggle:hover {
+      background: #FFD635;
+      transform: scale(1.08);
+      box-shadow: 0 6px 32px rgba(245,197,24,0.6);
+    }
+    #chat-toggle svg { width: 26px; height: 26px; }
+    #chat-toggle .icon-close { display: none; }
+    #chat-toggle.open .icon-chat { display: none; }
+    #chat-toggle.open .icon-close { display: block; }
+
+    #chat-window {
+      position: fixed;
+      bottom: 100px;
+      right: 28px;
+      z-index: 9998;
+      width: 380px;
+      max-height: 560px;
+      background: #161616;
+      border: 1px solid rgba(245,197,24,0.25);
+      border-radius: 16px;
+      display: flex;
+      flex-direction: column;
+      overflow: hidden;
+      box-shadow: 0 16px 48px rgba(0,0,0,0.7);
+      opacity: 0;
+      transform: translateY(20px) scale(0.96);
+      pointer-events: none;
+      transition: opacity 0.25s ease, transform 0.25s ease;
+    }
+    #chat-window.open {
+      opacity: 1;
+      transform: translateY(0) scale(1);
+      pointer-events: all;
+    }
+
+    .chat-header {
+      background: #1a1a1a;
+      border-bottom: 1px solid rgba(245,197,24,0.15);
+      padding: 14px 18px;
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      flex-shrink: 0;
+    }
+    .chat-header-icon {
+      width: 34px;
+      height: 34px;
+      background: #F5C518;
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      flex-shrink: 0;
+    }
+    .chat-header-icon svg { width: 18px; height: 18px; }
+    .chat-header-info { flex: 1; }
+    .chat-header-name {
+      font-size: 13px;
+      font-weight: 900;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      color: #fff;
+    }
+    .chat-header-status {
+      font-size: 10px;
+      font-weight: 600;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      color: #4ade80;
+      margin-top: 2px;
+    }
+    .chat-header-status::before {
+      content: '●';
+      margin-right: 5px;
+      font-size: 8px;
+    }
+
+    .chat-messages {
+      flex: 1;
+      overflow-y: auto;
+      padding: 16px;
+      display: flex;
+      flex-direction: column;
+      gap: 12px;
+      scrollbar-width: thin;
+      scrollbar-color: rgba(245,197,24,0.2) transparent;
+    }
+    .chat-messages::-webkit-scrollbar { width: 4px; }
+    .chat-messages::-webkit-scrollbar-track { background: transparent; }
+    .chat-messages::-webkit-scrollbar-thumb { background: rgba(245,197,24,0.2); border-radius: 2px; }
+
+    .msg {
+      display: flex;
+      flex-direction: column;
+      max-width: 88%;
+      animation: msgIn 0.22s ease forwards;
+    }
+    @keyframes msgIn {
+      from { opacity: 0; transform: translateY(8px); }
+      to   { opacity: 1; transform: translateY(0); }
+    }
+    .msg.user { align-self: flex-end; align-items: flex-end; }
+    .msg.bot  { align-self: flex-start; align-items: flex-start; }
+
+    .msg-bubble {
+      padding: 10px 14px;
+      border-radius: 12px;
+      font-size: 13px;
+      font-weight: 400;
+      line-height: 1.65;
+      letter-spacing: 0.02em;
+    }
+    .msg.user .msg-bubble {
+      background: #F5C518;
+      color: #111;
+      border-bottom-right-radius: 4px;
+    }
+    .msg.bot .msg-bubble {
+      background: #242424;
+      color: rgba(255,255,255,0.88);
+      border-bottom-left-radius: 4px;
+    }
+    .msg-time {
+      font-size: 10px;
+      letter-spacing: 0.06em;
+      color: rgba(255,255,255,0.25);
+      margin-top: 4px;
+      padding: 0 2px;
+    }
+
+    .typing-indicator {
+      display: flex;
+      gap: 5px;
+      padding: 12px 16px;
+      background: #242424;
+      border-radius: 12px;
+      border-bottom-left-radius: 4px;
+      width: fit-content;
+      align-self: flex-start;
+    }
+    .typing-indicator span {
+      width: 6px;
+      height: 6px;
+      background: rgba(255,255,255,0.4);
+      border-radius: 50%;
+      animation: typingBounce 1.2s infinite;
+    }
+    .typing-indicator span:nth-child(2) { animation-delay: 0.2s; }
+    .typing-indicator span:nth-child(3) { animation-delay: 0.4s; }
+    @keyframes typingBounce {
+      0%, 60%, 100% { transform: translateY(0); opacity: 0.4; }
+      30%            { transform: translateY(-5px); opacity: 1; }
+    }
+
+    .chat-input-area {
+      border-top: 1px solid rgba(245,197,24,0.12);
+      padding: 12px 14px;
+      display: flex;
+      gap: 10px;
+      align-items: flex-end;
+      background: #161616;
+      flex-shrink: 0;
+    }
+    #chat-input {
+      flex: 1;
+      background: #242424;
+      border: 1px solid rgba(255,255,255,0.08);
+      border-radius: 10px;
+      padding: 10px 14px;
+      font-family: 'Creato Display', sans-serif;
+      font-size: 13px;
+      font-weight: 400;
+      color: #fff;
+      resize: none;
+      outline: none;
+      line-height: 1.5;
+      max-height: 100px;
+      transition: border-color 0.2s;
+    }
+    #chat-input::placeholder { color: rgba(255,255,255,0.25); }
+    #chat-input:focus { border-color: rgba(245,197,24,0.4); }
+    #chat-send {
+      width: 38px;
+      height: 38px;
+      background: #F5C518;
+      border: none;
+      border-radius: 9px;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      flex-shrink: 0;
+      transition: background 0.2s, transform 0.15s;
+    }
+    #chat-send:hover { background: #FFD635; transform: scale(1.06); }
+    #chat-send:disabled { background: rgba(245,197,24,0.3); cursor: not-allowed; transform: none; }
+    #chat-send svg { width: 16px; height: 16px; }
+
+    .chat-suggestions {
+      padding: 0 14px 10px;
+      display: flex;
+      gap: 6px;
+      flex-wrap: wrap;
+      background: #161616;
+    }
+    .suggestion-chip {
+      font-family: 'Creato Display', sans-serif;
+      font-size: 10px;
+      font-weight: 700;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      padding: 5px 10px;
+      border: 1px solid rgba(245,197,24,0.3);
+      border-radius: 20px;
+      background: transparent;
+      color: rgba(255,255,255,0.55);
+      cursor: pointer;
+      transition: border-color 0.2s, color 0.2s, background 0.2s;
+    }
+    .suggestion-chip:hover {
+      border-color: #F5C518;
+      color: #F5C518;
+      background: rgba(245,197,24,0.05);
+    }
+
+    /* ══ NOTIFICATION BADGE ══ */
+    .chat-badge {
+      position: absolute;
+      top: -3px;
+      right: -3px;
+      width: 18px;
+      height: 18px;
+      background: #ef4444;
+      border-radius: 50%;
+      font-size: 10px;
+      font-weight: 900;
+      color: #fff;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      animation: badgePop 0.3s ease;
+    }
+    @keyframes badgePop {
+      from { transform: scale(0); }
+      to   { transform: scale(1); }
+    }
+  </style>
+</head>
+<body>
+
+<!-- ══ HERO ══ -->
+<section class="hero">
+  <div class="hero-bg"></div>
+
+  <nav>
+    <div class="logo">
+      <img src="Image/Icon_logo.png" alt="AgroSight"
+           onerror="this.outerHTML='<span style=\'font-size:22px;font-weight:900;color:#F5C518;letter-spacing:2px;\'>AGROSIGHT</span>'" />
+    </div>
+    <ul class="nav-links">
+      <li><a href="developer.html">MEET OUR TEAM</a></li>
+    </ul>
+  </nav>
+
+  <div class="hero-content">
+    <h1>SEE TOMORROW'S FOOD PRICES, TODAY.</h1>
+  </div>
+
+  <div class="chevrons">
+    <img src="Image/garis_graphic.png" alt="" class="flip" />
+    <img src="Image/garis_graphic.png" alt="" />
+  </div>
+  
+</section>
+
+<!-- ══ HOW IT WORKS ══ -->
+<section class="sec">
+  <div class="sec-inner">
+    <div class="sec-label reveal">HOW IT WORKS</div>
+    <h2 class="sec-title reveal">FROM RAW DATA TO<br><span>ACTIONABLE INSIGHT</span></h2>
+    <div class="steps reveal">
+      <div class="step">
+        <div class="step-num">01</div>
+        <div class="step-body">
+          <h4>DATA INGESTION</h4>
+          <p>We pull from over 3 million rows of historical commodity price data across Indonesian markets — cleaned, structured, and ready.</p>
+        </div>
+      </div>
+      <div class="step">
+        <div class="step-num">02</div>
+        <div class="step-body">
+          <h4>TIME SERIES MODELING</h4>
+          <p>Advanced forecasting models detect seasonal patterns, trend shifts, and price anomalies with high precision.</p>
+        </div>
+      </div>
+      <div class="step">
+        <div class="step-num">03</div>
+        <div class="step-body">
+          <h4>AI NARRATIVE</h4>
+          <p>Groq-powered AI translates complex model outputs into plain-language market reports you can act on immediately.</p>
+        </div>
+      </div>
+      <div class="step">
+        <div class="step-num">04</div>
+        <div class="step-body">
+          <h4>STRATEGIC ACTION</h4>
+          <p>Distribute insights to buyers, sellers, and policymakers — turning predictions into decisions that protect supply chains.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ══ STATS ══ -->
+<section class="sec-stats">
+  <div class="stats-grid reveal" id="stats-section">
+    <div class="stat-item">
+      <div class="stat-num"><span id="stat-n1">0</span>M<sup>+</sup></div>
+      <div class="stat-lbl">ROWS OF MARKET DATA</div>
+    </div>
+    <div class="stat-div"></div>
+    <div class="stat-item">
+      <div class="stat-num"><span id="stat-n2">0</span><sup>+</sup></div>
+      <div class="stat-lbl">COMMODITIES TRACKED</div>
+    </div>
+    <div class="stat-div"></div>
+    <div class="stat-item">
+      <div class="stat-num"><span id="stat-n3">0</span><sup>+</sup></div>
+      <div class="stat-lbl">PROVINCES COVERED</div>
+    </div>
+    <div class="stat-div"></div>
+    <div class="stat-item">
+      <div class="stat-num"><span id="stat-n4">0</span><sup>%</sup></div>
+      <div class="stat-lbl">FORECAST ACCURACY</div>
+    </div>
+  </div>
+</section>
+
+<!-- ══ COMMODITIES ══ -->
+<section class="sec sec-comm-bg">
+  <div class="sec-inner">
+    <div class="sec-label reveal">WHAT WE TRACK</div>
+    <h2 class="sec-title reveal">KEY COMMODITIES<br><span>WE FORECAST</span></h2>
+    <div class="comm-grid reveal">
+      <div class="comm-card">
+        <img src="https://pngimg.com/uploads/chili_pepper/chili_pepper_PNG1.png" alt="CHILI" onerror="this.style.display='none'" />
+        <span>CHILI</span>
+      </div>
+      <div class="comm-card">
+        <img src="https://pngimg.com/uploads/onion/onion_PNG99230.png" alt="SHALLOT" onerror="this.style.display='none'" />
+        <span>SHALLOT</span>
+      </div>
+      <div class="comm-card">
+        <img src="https://pngimg.com/uploads/garlic/garlic_PNG12765.png" alt="GARLIC" onerror="this.style.display='none'" />
+        <span>GARLIC</span>
+      </div>
+      <div class="comm-card">
+        <img src="https://pngimg.com/uploads/olive_oil/olive_oil_PNG98577.png" alt="COOKING OIL" onerror="this.style.display='none'" />
+        <span>COOKING OIL</span>
+      </div>
+      <div class="comm-card">
+        <img src="https://pngimg.com/uploads/rice/rice_PNG9.png" alt="RICE" onerror="this.style.display='none'" />
+        <span>RICE</span>
+      </div>
+      <div class="comm-card">
+        <img src="https://pngimg.com/uploads/beef/beef_PNG5.png" alt="BEEF" onerror="this.style.display='none'" />
+        <span>BEEF</span>
+      </div>
+      <div class="comm-card">
+        <img src="https://pngimg.com/uploads/chicken/chicken_PNG2154.png" alt="CHICKEN" onerror="this.style.display='none'" />
+        <span>CHICKEN</span>
+      </div>
+      <div class="comm-card">
+        <img src="https://pngimg.com/uploads/egg/egg_PNG97961.png" alt="EGGS" onerror="this.style.display='none'" />
+        <span>EGGS</span>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ══ CTA BOTTOM ══ -->
+<section class="sec sec-cta">
+  <div class="sec-inner cta-bot-inner reveal">
+    <h2 class="sec-title" style="text-align:center;">READY TO SEE<br><span>TOMORROW'S PRICES?</span></h2>
+    <p class="cta-bot-sub">Start forecasting now — no setup required.<br>Just select your commodity, region, and date.</p>
+    <a href="projection.html" class="btn-cta-bot">RUN YOUR FIRST FORECAST →</a>
+  </div>
+</section>
+
+<!-- ══ FOOTER ══ -->
+<footer>
+  <div class="foot-inner">
+    <div class="logo">
+      <img src="Image/Icon_logo.png" alt="AgroSight" height="36"
+           onerror="this.outerHTML='<span style=\'font-weight:900;color:#F5C518;font-size:16px;letter-spacing:2px;\'>AGROSIGHT</span>'" />
+    </div>
+    <div class="foot-links">
+      <a href="index.html">Home</a>
+      <a href="projection.html">Projection</a>
+      <a href="developer.html">Our Developer</a>
+    </div>
+    <div class="foot-copy">© 2025 AGROSIGHT. ALL RIGHTS RESERVED.</div>
+  </div>
+</footer>
+
+<!-- ══ GROQ CHAT WIDGET ══ -->
+<button id="chat-toggle" aria-label="Toggle AgroSight AI Assistant">
+  <svg class="icon-chat" viewBox="0 0 24 24" fill="none" stroke="#111" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/>
+  </svg>
+  <svg class="icon-close" viewBox="0 0 24 24" fill="none" stroke="#111" stroke-width="2.5" stroke-linecap="round">
+    <line x1="18" y1="6" x2="6" y2="18"/>
+    <line x1="6" y1="6" x2="18" y2="18"/>
+  </svg>
+  <span class="chat-badge" id="chat-badge">1</span>
+</button>
+
+<div id="chat-window" role="dialog" aria-label="AgroSight AI Assistant">
+  <div class="chat-header">
+    <div class="chat-header-icon">
+      <svg viewBox="0 0 24 24" fill="#111">
+        <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 14.5v-9l6 4.5-6 4.5z"/>
+      </svg>
+    </div>
+    <div class="chat-header-info">
+      <div class="chat-header-name">AgroSight AI</div>
+      <div class="chat-header-status">Online — Powered by Groq</div>
+    </div>
+  </div>
+
+  <div class="chat-messages" id="chat-messages"></div>
+
+  <div class="chat-suggestions" id="chat-suggestions">
+    <button class="suggestion-chip" data-msg="What commodities do you forecast?">Commodities</button>
+    <button class="suggestion-chip" data-msg="How accurate are your predictions?">Accuracy</button>
+    <button class="suggestion-chip" data-msg="Which regions are covered?">Regions</button>
+    <button class="suggestion-chip" data-msg="How does the forecasting model work?">How it works</button>
+  </div>
+
+  <div class="chat-input-area">
+    <textarea id="chat-input" placeholder="Ask about food prices, forecasts..." rows="1"></textarea>
+    <button id="chat-send" aria-label="Send message">
+      <svg viewBox="0 0 24 24" fill="none" stroke="#111" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+        <line x1="22" y1="2" x2="11" y2="13"/>
+        <polygon points="22 2 15 22 11 13 2 9 22 2"/>
+      </svg>
+    </button>
+  </div>
+</div>
+
+<script>
+  // ── Scroll reveal ──
+  const obs = new IntersectionObserver((entries) => {
+    entries.forEach(e => { if (e.isIntersecting) e.target.classList.add('visible'); });
+  }, { threshold: 0.12 });
+  document.querySelectorAll('.reveal').forEach(el => obs.observe(el));
+
+  // ══ STATS COUNTER ANIMATION ══
+  const STAT_TARGETS = [3, 8, 34, 90];
+  const STAT_IDS     = ['stat-n1', 'stat-n2', 'stat-n3', 'stat-n4'];
+  const ANIM_DURATION = 1800;
+  const LOOP_PAUSE    = 10000;
+  let statsLoopTimer  = null;
+  let statsAnimating  = false;
+
+  function easeOutExpo(t) {
+    return t === 1 ? 1 : 1 - Math.pow(2, -10 * t);
+  }
+
+  function runStatsCounter() {
+    if (statsAnimating) return;
+    statsAnimating = true;
+
+    STAT_IDS.forEach(id => { document.getElementById(id).textContent = '0'; });
+
+    const start = performance.now();
+
+    function tick(now) {
+      const elapsed  = now - start;
+      const progress = Math.min(elapsed / ANIM_DURATION, 1);
+      const eased    = easeOutExpo(progress);
+
+      STAT_IDS.forEach((id, i) => {
+        document.getElementById(id).textContent = Math.round(eased * STAT_TARGETS[i]);
+      });
+
+      if (progress < 1) {
+        requestAnimationFrame(tick);
+      } else {
+        STAT_IDS.forEach((id, i) => {
+          document.getElementById(id).textContent = STAT_TARGETS[i];
+        });
+        statsAnimating = false;
+        statsLoopTimer = setTimeout(runStatsCounter, LOOP_PAUSE);
+      }
+    }
+
+    requestAnimationFrame(tick);
+  }
+
+  // Trigger counter when stats section enters viewport; loop after that
+  const statsObs = new IntersectionObserver((entries) => {
+    entries.forEach(e => {
+      if (e.isIntersecting) {
+        clearTimeout(statsLoopTimer);
+        runStatsCounter();
+        statsObs.unobserve(e.target);
+      }
+    });
+  }, { threshold: 0.3 });
+  statsObs.observe(document.getElementById('stats-section'));
+
+  // ── Chat Widget ──
+  const GROQ_API_KEY = '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';
+  const GROQ_MODEL   = 'llama-3.3-70b-versatile';
+
+  const SYSTEM_PROMPT = `You are AgroSight AI, an intelligent assistant for AgroSight — an Indonesian food commodity price forecasting platform.
+
+Key facts about AgroSight:
+- Forecasts prices of 8+ Indonesian food commodities including chili, shallot, garlic, cooking oil, rice, beef, chicken, and eggs
+- Covers 34 Provinces across Indonesia
+- Uses 3M+ rows of historical market data
+- Achieves ~90% forecast accuracy using advanced time series modeling
+- Powered by Groq AI for natural language market reports
+- Helps buyers, sellers, and policymakers make data-driven decisions
+
+Your role: Answer questions about commodity price trends, forecasting methodology, Indonesian food markets, and how to use AgroSight. Be concise, helpful, and data-informed. If asked about live prices, explain forecasts are available via the Projection page. Respond in the same language the user writes (Indonesian or English). Keep responses under 120 words unless detail is truly needed.`;
+
+  const chatHistory = [];
+  let isTyping = false;
+
+  const toggleBtn    = document.getElementById('chat-toggle');
+  const chatWindow   = document.getElementById('chat-window');
+  const messagesEl   = document.getElementById('chat-messages');
+  const inputEl      = document.getElementById('chat-input');
+  const sendBtn      = document.getElementById('chat-send');
+  const badge        = document.getElementById('chat-badge');
+  const suggestionsEl = document.getElementById('chat-suggestions');
+
+  function addWelcome() {
+    addMessage('bot', 'Hi! I\'m AgroSight AI 🌾 Ask me anything about Indonesian food commodity price forecasts, market trends, or how our platform works.');
+  }
+  addWelcome();
+
+  toggleBtn.addEventListener('click', () => {
+    const isOpen = chatWindow.classList.toggle('open');
+    toggleBtn.classList.toggle('open', isOpen);
+    if (badge) badge.remove();
+    if (isOpen) { inputEl.focus(); scrollToBottom(); }
+  });
+
+  function getTime() {
+    return new Date().toLocaleTimeString('en-US', { hour: '2-digit', minute: '2-digit', hour12: false });
+  }
+
+  function addMessage(role, text) {
+    const msgDiv = document.createElement('div');
+    msgDiv.className = `msg ${role}`;
+    const bubble = document.createElement('div');
+    bubble.className = 'msg-bubble';
+    bubble.textContent = text;
+    const time = document.createElement('div');
+    time.className = 'msg-time';
+    time.textContent = getTime();
+    msgDiv.appendChild(bubble);
+    msgDiv.appendChild(time);
+    messagesEl.appendChild(msgDiv);
+    scrollToBottom();
+    return msgDiv;
+  }
+
+  function showTyping() {
+    const el = document.createElement('div');
+    el.className = 'typing-indicator';
+    el.id = 'typing-indicator';
+    el.innerHTML = '<span></span><span></span><span></span>';
+    messagesEl.appendChild(el);
+    scrollToBottom();
+  }
+
+  function removeTyping() {
+    const el = document.getElementById('typing-indicator');
+    if (el) el.remove();
+  }
+
+  function scrollToBottom() { messagesEl.scrollTop = messagesEl.scrollHeight; }
+
+  async function sendMessage(text) {
+    if (!text.trim() || isTyping) return;
+    isTyping = true;
+    sendBtn.disabled = true;
+    suggestionsEl.style.display = 'none';
+    addMessage('user', text);
+    chatHistory.push({ role: 'user', content: text });
+    showTyping();
+
+    try {
+      const res = await fetch('https://api.groq.com/openai/v1/chat/completions', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json', 'Authorization': `Bearer ${GROQ_API_KEY}` },
+        body: JSON.stringify({
+          model: GROQ_MODEL,
+          messages: [{ role: 'system', content: SYSTEM_PROMPT }, ...chatHistory],
+          max_tokens: 300,
+          temperature: 0.65,
+          stream: false
+        })
+      });
+      const data = await res.json();
+      removeTyping();
+      if (data.choices && data.choices[0]) {
+        const reply = data.choices[0].message.content.trim();
+        chatHistory.push({ role: 'assistant', content: reply });
+        addMessage('bot', reply);
+      } else {
+        addMessage('bot', 'Sorry, something went wrong. Please try again.');
+      }
+    } catch (err) {
+      removeTyping();
+      addMessage('bot', 'Unable to connect. Please check your connection and try again.');
+      console.error('Groq API error:', err);
+    }
+
+    isTyping = false;
+    sendBtn.disabled = false;
+    inputEl.focus();
+  }
+
+  sendBtn.addEventListener('click', () => {
+    const text = inputEl.value.trim();
+    if (text) { inputEl.value = ''; inputEl.style.height = 'auto'; sendMessage(text); }
+  });
+
+  inputEl.addEventListener('keydown', (e) => {
+    if (e.key === 'Enter' && !e.shiftKey) {
+      e.preventDefault();
+      const text = inputEl.value.trim();
+      if (text) { inputEl.value = ''; inputEl.style.height = 'auto'; sendMessage(text); }
+    }
+  });
+
+  inputEl.addEventListener('input', () => {
+    inputEl.style.height = 'auto';
+    inputEl.style.height = Math.min(inputEl.scrollHeight, 100) + 'px';
+  });
+
+  document.querySelectorAll('.suggestion-chip').forEach(chip => {
+    chip.addEventListener('click', () => { sendMessage(chip.dataset.msg); });
+  });
+</script>
+
+</body>
+</html>

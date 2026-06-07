@@ -1,0 +1,4066 @@
+{
+  "Bawang_Merah_(kg)_Aceh": {
+    "komoditas": "Bawang Merah (kg)",
+    "provinsi": "Aceh",
+    "mae": 3351.66,
+    "rmse": 4633.11,
+    "mape": 8.0,
+    "n_samples": 528
+  },
+  "Bawang_Merah_(kg)_Bali": {
+    "komoditas": "Bawang Merah (kg)",
+    "provinsi": "Bali",
+    "mae": 3113.53,
+    "rmse": 4300.08,
+    "mape": 7.92,
+    "n_samples": 528
+  },
+  "Bawang_Merah_(kg)_Banten": {
+    "komoditas": "Bawang Merah (kg)",
+    "provinsi": "Banten",
+    "mae": 2613.97,
+    "rmse": 3528.23,
+    "mape": 6.22,
+    "n_samples": 528
+  },
+  "Bawang_Merah_(kg)_Bengkulu": {
+    "komoditas": "Bawang Merah (kg)",
+    "provinsi": "Bengkulu",
+    "mae": 2602.5,
+    "rmse": 3825.66,
+    "mape": 5.73,
+    "n_samples": 528
+  },
+  "Bawang_Merah_(kg)_DI_Yogyakarta": {
+    "komoditas": "Bawang Merah (kg)",
+    "provinsi": "DI Yogyakarta",
+    "mae": 3306.86,
+    "rmse": 4279.04,
+    "mape": 7.9,
+    "n_samples": 528
+  },
+  "Bawang_Merah_(kg)_DKI_Jakarta": {
+    "komoditas": "Bawang Merah (kg)",
+    "provinsi": "DKI Jakarta",
+    "mae": 2738.29,
+    "rmse": 3566.0,
+    "mape": 5.19,
+    "n_samples": 528
+  },
+  "Bawang_Merah_(kg)_Gorontalo": {
+    "komoditas": "Bawang Merah (kg)",
+    "provinsi": "Gorontalo",
+    "mae": 4717.09,
+    "rmse": 6478.94,
+    "mape": 8.76,
+    "n_samples": 528
+  },
+  "Bawang_Merah_(kg)_Jambi": {
+    "komoditas": "Bawang Merah (kg)",
+    "provinsi": "Jambi",
+    "mae": 1643.33,
+    "rmse": 2404.58,
+    "mape": 4.52,
+    "n_samples": 528
+  },
+  "Bawang_Merah_(kg)_Jawa_Barat": {
+    "komoditas": "Bawang Merah (kg)",
+    "provinsi": "Jawa Barat",
+    "mae": 1660.81,
+    "rmse": 2284.26,
+    "mape": 4.2,
+    "n_samples": 528
+  },
+  "Bawang_Merah_(kg)_Jawa_Tengah": {
+    "komoditas": "Bawang Merah (kg)",
+    "provinsi": "Jawa Tengah",
+    "mae": 2264.18,
+    "rmse": 3053.38,
+    "mape": 5.52,
+    "n_samples": 528
+  },
+  "Bawang_Merah_(kg)_Jawa_Timur": {
+    "komoditas": "Bawang Merah (kg)",
+    "provinsi": "Jawa Timur",
+    "mae": 2326.73,
+    "rmse": 2951.97,
+    "mape": 6.15,
+    "n_samples": 528
+  },
+  "Bawang_Merah_(kg)_Kalimantan_Barat": {
+    "komoditas": "Bawang Merah (kg)",
+    "provinsi": "Kalimantan Barat",
+    "mae": 5880.83,
+    "rmse": 8138.93,
+    "mape": 11.03,
+    "n_samples": 528
+  },
+  "Bawang_Merah_(kg)_Kalimantan_Selatan": {
+    "komoditas": "Bawang Merah (kg)",
+    "provinsi": "Kalimantan Selatan",
+    "mae": 3822.13,
+    "rmse": 5615.76,
+    "mape": 8.25,
+    "n_samples": 528
+  },
+  "Bawang_Merah_(kg)_Kalimantan_Tengah": {
+    "komoditas": "Bawang Merah (kg)",
+    "provinsi": "Kalimantan Tengah",
+    "mae": 4027.33,
+    "rmse": 5992.21,
+    "mape": 7.7,
+    "n_samples": 528
+  },
+  "Bawang_Merah_(kg)_Kalimantan_Timur": {
+    "komoditas": "Bawang Merah (kg)",
+    "provinsi": "Kalimantan Timur",
+    "mae": 4558.13,
+    "rmse": 5785.28,
+    "mape": 8.86,
+    "n_samples": 528
+  },
+  "Bawang_Merah_(kg)_Kalimantan_Utara": {
+    "komoditas": "Bawang Merah (kg)",
+    "provinsi": "Kalimantan Utara",
+    "mae": 4049.42,
+    "rmse": 5224.71,
+    "mape": 7.62,
+    "n_samples": 528
+  },
+  "Bawang_Merah_(kg)_Kepulauan_Bangka_Belitung": {
+    "komoditas": "Bawang Merah (kg)",
+    "provinsi": "Kepulauan Bangka Belitung",
+    "mae": 2359.38,
+    "rmse": 3251.15,
+    "mape": 5.07,
+    "n_samples": 528
+  },
+  "Bawang_Merah_(kg)_Kepulauan_Riau": {
+    "komoditas": "Bawang Merah (kg)",
+    "provinsi": "Kepulauan Riau",
+    "mae": 2760.89,
+    "rmse": 3433.12,
+    "mape": 6.14,
+    "n_samples": 528
+  },
+  "Bawang_Merah_(kg)_Lampung": {
+    "komoditas": "Bawang Merah (kg)",
+    "provinsi": "Lampung",
+    "mae": 2167.09,
+    "rmse": 2730.78,
+    "mape": 5.83,
+    "n_samples": 528
+  },
+  "Bawang_Merah_(kg)_Maluku": {
+    "komoditas": "Bawang Merah (kg)",
+    "provinsi": "Maluku",
+    "mae": 5873.31,
+    "rmse": 7010.41,
+    "mape": 10.6,
+    "n_samples": 528
+  },
+  "Bawang_Merah_(kg)_Maluku_Utara": {
+    "komoditas": "Bawang Merah (kg)",
+    "provinsi": "Maluku Utara",
+    "mae": 3512.5,
+    "rmse": 4655.5,
+    "mape": 5.44,
+    "n_samples": 528
+  },
+  "Bawang_Merah_(kg)_Nusa_Tenggara_Barat": {
+    "komoditas": "Bawang Merah (kg)",
+    "provinsi": "Nusa Tenggara Barat",
+    "mae": 3697.72,
+    "rmse": 5693.6,
+    "mape": 7.95,
+    "n_samples": 528
+  },
+  "Bawang_Merah_(kg)_Nusa_Tenggara_Timur": {
+    "komoditas": "Bawang Merah (kg)",
+    "provinsi": "Nusa Tenggara Timur",
+    "mae": 3329.96,
+    "rmse": 3966.2,
+    "mape": 7.83,
+    "n_samples": 528
+  },
+  "Bawang_Merah_(kg)_Papua": {
+    "komoditas": "Bawang Merah (kg)",
+    "provinsi": "Papua",
+    "mae": 2408.34,
+    "rmse": 3209.25,
+    "mape": 3.38,
+    "n_samples": 528
+  },
+  "Bawang_Merah_(kg)_Papua_Barat": {
+    "komoditas": "Bawang Merah (kg)",
+    "provinsi": "Papua Barat",
+    "mae": 1689.58,
+    "rmse": 2696.28,
+    "mape": 2.67,
+    "n_samples": 528
+  },
+  "Bawang_Merah_(kg)_Riau": {
+    "komoditas": "Bawang Merah (kg)",
+    "provinsi": "Riau",
+    "mae": 2223.9,
+    "rmse": 2844.2,
+    "mape": 5.36,
+    "n_samples": 528
+  },
+  "Bawang_Merah_(kg)_Sulawesi_Barat": {
+    "komoditas": "Bawang Merah (kg)",
+    "provinsi": "Sulawesi Barat",
+    "mae": 4189.13,
+    "rmse": 5371.48,
+    "mape": 8.8,
+    "n_samples": 528
+  },
+  "Bawang_Merah_(kg)_Sulawesi_Selatan": {
+    "komoditas": "Bawang Merah (kg)",
+    "provinsi": "Sulawesi Selatan",
+    "mae": 2980.86,
+    "rmse": 4010.36,
+    "mape": 6.92,
+    "n_samples": 528
+  },
+  "Bawang_Merah_(kg)_Sulawesi_Tengah": {
+    "komoditas": "Bawang Merah (kg)",
+    "provinsi": "Sulawesi Tengah",
+    "mae": 3486.48,
+    "rmse": 4530.77,
+    "mape": 7.23,
+    "n_samples": 528
+  },
+  "Bawang_Merah_(kg)_Sulawesi_Tenggara": {
+    "komoditas": "Bawang Merah (kg)",
+    "provinsi": "Sulawesi Tenggara",
+    "mae": 3423.73,
+    "rmse": 4369.88,
+    "mape": 7.01,
+    "n_samples": 528
+  },
+  "Bawang_Merah_(kg)_Sulawesi_Utara": {
+    "komoditas": "Bawang Merah (kg)",
+    "provinsi": "Sulawesi Utara",
+    "mae": 4552.91,
+    "rmse": 6334.97,
+    "mape": 8.27,
+    "n_samples": 528
+  },
+  "Bawang_Merah_(kg)_Sumatera_Barat": {
+    "komoditas": "Bawang Merah (kg)",
+    "provinsi": "Sumatera Barat",
+    "mae": 2463.99,
+    "rmse": 2894.49,
+    "mape": 6.9,
+    "n_samples": 528
+  },
+  "Bawang_Merah_(kg)_Sumatera_Selatan": {
+    "komoditas": "Bawang Merah (kg)",
+    "provinsi": "Sumatera Selatan",
+    "mae": 2073.73,
+    "rmse": 2635.51,
+    "mape": 5.39,
+    "n_samples": 528
+  },
+  "Bawang_Merah_(kg)_Sumatera_Utara": {
+    "komoditas": "Bawang Merah (kg)",
+    "provinsi": "Sumatera Utara",
+    "mae": 2446.67,
+    "rmse": 3326.45,
+    "mape": 6.16,
+    "n_samples": 528
+  },
+  "Bawang_Putih_Honan_(kg)_Aceh": {
+    "komoditas": "Bawang Putih Honan (kg)",
+    "provinsi": "Aceh",
+    "mae": 1667.76,
+    "rmse": 1921.86,
+    "mape": 4.41,
+    "n_samples": 528
+  },
+  "Bawang_Putih_Honan_(kg)_Bali": {
+    "komoditas": "Bawang Putih Honan (kg)",
+    "provinsi": "Bali",
+    "mae": 2389.61,
+    "rmse": 2743.55,
+    "mape": 7.36,
+    "n_samples": 528
+  },
+  "Bawang_Putih_Honan_(kg)_Banten": {
+    "komoditas": "Bawang Putih Honan (kg)",
+    "provinsi": "Banten",
+    "mae": 1838.29,
+    "rmse": 2017.25,
+    "mape": 5.26,
+    "n_samples": 528
+  },
+  "Bawang_Putih_Honan_(kg)_Bengkulu": {
+    "komoditas": "Bawang Putih Honan (kg)",
+    "provinsi": "Bengkulu",
+    "mae": 1346.69,
+    "rmse": 1730.21,
+    "mape": 3.6,
+    "n_samples": 528
+  },
+  "Bawang_Putih_Honan_(kg)_DI_Yogyakarta": {
+    "komoditas": "Bawang Putih Honan (kg)",
+    "provinsi": "DI Yogyakarta",
+    "mae": 2840.44,
+    "rmse": 3127.25,
+    "mape": 8.9,
+    "n_samples": 528
+  },
+  "Bawang_Putih_Honan_(kg)_DKI_Jakarta": {
+    "komoditas": "Bawang Putih Honan (kg)",
+    "provinsi": "DKI Jakarta",
+    "mae": 695.89,
+    "rmse": 899.24,
+    "mape": 1.7,
+    "n_samples": 528
+  },
+  "Bawang_Putih_Honan_(kg)_Gorontalo": {
+    "komoditas": "Bawang Putih Honan (kg)",
+    "provinsi": "Gorontalo",
+    "mae": 1453.36,
+    "rmse": 1961.77,
+    "mape": 3.48,
+    "n_samples": 528
+  },
+  "Bawang_Putih_Honan_(kg)_Jambi": {
+    "komoditas": "Bawang Putih Honan (kg)",
+    "provinsi": "Jambi",
+    "mae": 377.5,
+    "rmse": 608.85,
+    "mape": 1.08,
+    "n_samples": 528
+  },
+  "Bawang_Putih_Honan_(kg)_Jawa_Barat": {
+    "komoditas": "Bawang Putih Honan (kg)",
+    "provinsi": "Jawa Barat",
+    "mae": 1124.0,
+    "rmse": 1216.85,
+    "mape": 3.22,
+    "n_samples": 528
+  },
+  "Bawang_Putih_Honan_(kg)_Jawa_Tengah": {
+    "komoditas": "Bawang Putih Honan (kg)",
+    "provinsi": "Jawa Tengah",
+    "mae": 2104.88,
+    "rmse": 2273.91,
+    "mape": 6.47,
+    "n_samples": 528
+  },
+  "Bawang_Putih_Honan_(kg)_Jawa_Timur": {
+    "komoditas": "Bawang Putih Honan (kg)",
+    "provinsi": "Jawa Timur",
+    "mae": 1687.91,
+    "rmse": 2159.53,
+    "mape": 5.5,
+    "n_samples": 528
+  },
+  "Bawang_Putih_Honan_(kg)_Kalimantan_Barat": {
+    "komoditas": "Bawang Putih Honan (kg)",
+    "provinsi": "Kalimantan Barat",
+    "mae": 1770.84,
+    "rmse": 2160.4,
+    "mape": 4.68,
+    "n_samples": 528
+  },
+  "Bawang_Putih_Honan_(kg)_Kalimantan_Selatan": {
+    "komoditas": "Bawang Putih Honan (kg)",
+    "provinsi": "Kalimantan Selatan",
+    "mae": 449.58,
+    "rmse": 732.45,
+    "mape": 1.27,
+    "n_samples": 528
+  },
+  "Bawang_Putih_Honan_(kg)_Kalimantan_Tengah": {
+    "komoditas": "Bawang Putih Honan (kg)",
+    "provinsi": "Kalimantan Tengah",
+    "mae": 977.86,
+    "rmse": 1244.92,
+    "mape": 2.46,
+    "n_samples": 528
+  },
+  "Bawang_Putih_Honan_(kg)_Kalimantan_Timur": {
+    "komoditas": "Bawang Putih Honan (kg)",
+    "provinsi": "Kalimantan Timur",
+    "mae": 772.8,
+    "rmse": 1022.29,
+    "mape": 1.96,
+    "n_samples": 528
+  },
+  "Bawang_Putih_Honan_(kg)_Kalimantan_Utara": {
+    "komoditas": "Bawang Putih Honan (kg)",
+    "provinsi": "Kalimantan Utara",
+    "mae": 4313.75,
+    "rmse": 4835.46,
+    "mape": 11.99,
+    "n_samples": 528
+  },
+  "Bawang_Putih_Honan_(kg)_Kepulauan_Bangka_Belitung": {
+    "komoditas": "Bawang Putih Honan (kg)",
+    "provinsi": "Kepulauan Bangka Belitung",
+    "mae": 2110.01,
+    "rmse": 2354.94,
+    "mape": 5.94,
+    "n_samples": 528
+  },
+  "Bawang_Putih_Honan_(kg)_Kepulauan_Riau": {
+    "komoditas": "Bawang Putih Honan (kg)",
+    "provinsi": "Kepulauan Riau",
+    "mae": 1870.41,
+    "rmse": 2044.47,
+    "mape": 5.52,
+    "n_samples": 528
+  },
+  "Bawang_Putih_Honan_(kg)_Lampung": {
+    "komoditas": "Bawang Putih Honan (kg)",
+    "provinsi": "Lampung",
+    "mae": 1560.0,
+    "rmse": 1839.07,
+    "mape": 4.89,
+    "n_samples": 528
+  },
+  "Bawang_Putih_Honan_(kg)_Maluku": {
+    "komoditas": "Bawang Putih Honan (kg)",
+    "provinsi": "Maluku",
+    "mae": 1832.51,
+    "rmse": 1999.8,
+    "mape": 4.02,
+    "n_samples": 528
+  },
+  "Bawang_Putih_Honan_(kg)_Maluku_Utara": {
+    "komoditas": "Bawang Putih Honan (kg)",
+    "provinsi": "Maluku Utara",
+    "mae": 1878.33,
+    "rmse": 2253.64,
+    "mape": 3.71,
+    "n_samples": 528
+  },
+  "Bawang_Putih_Honan_(kg)_Nusa_Tenggara_Barat": {
+    "komoditas": "Bawang Putih Honan (kg)",
+    "provinsi": "Nusa Tenggara Barat",
+    "mae": 1285.02,
+    "rmse": 1647.22,
+    "mape": 3.53,
+    "n_samples": 528
+  },
+  "Bawang_Putih_Honan_(kg)_Nusa_Tenggara_Timur": {
+    "komoditas": "Bawang Putih Honan (kg)",
+    "provinsi": "Nusa Tenggara Timur",
+    "mae": 227.91,
+    "rmse": 432.32,
+    "mape": 0.57,
+    "n_samples": 528
+  },
+  "Bawang_Putih_Honan_(kg)_Papua": {
+    "komoditas": "Bawang Putih Honan (kg)",
+    "provinsi": "Papua",
+    "mae": 233.32,
+    "rmse": 477.24,
+    "mape": 0.39,
+    "n_samples": 528
+  },
+  "Bawang_Putih_Honan_(kg)_Papua_Barat": {
+    "komoditas": "Bawang Putih Honan (kg)",
+    "provinsi": "Papua Barat",
+    "mae": 2043.76,
+    "rmse": 2416.63,
+    "mape": 3.71,
+    "n_samples": 528
+  },
+  "Bawang_Putih_Honan_(kg)_Riau": {
+    "komoditas": "Bawang Putih Honan (kg)",
+    "provinsi": "Riau",
+    "mae": 2234.43,
+    "rmse": 2584.15,
+    "mape": 6.38,
+    "n_samples": 528
+  },
+  "Bawang_Putih_Honan_(kg)_Sulawesi_Barat": {
+    "komoditas": "Bawang Putih Honan (kg)",
+    "provinsi": "Sulawesi Barat",
+    "mae": 885.84,
+    "rmse": 1203.8,
+    "mape": 2.21,
+    "n_samples": 528
+  },
+  "Bawang_Putih_Honan_(kg)_Sulawesi_Selatan": {
+    "komoditas": "Bawang Putih Honan (kg)",
+    "provinsi": "Sulawesi Selatan",
+    "mae": 1460.89,
+    "rmse": 1672.67,
+    "mape": 3.84,
+    "n_samples": 528
+  },
+  "Bawang_Putih_Honan_(kg)_Sulawesi_Tengah": {
+    "komoditas": "Bawang Putih Honan (kg)",
+    "provinsi": "Sulawesi Tengah",
+    "mae": 4264.96,
+    "rmse": 4953.51,
+    "mape": 10.62,
+    "n_samples": 528
+  },
+  "Bawang_Putih_Honan_(kg)_Sulawesi_Tenggara": {
+    "komoditas": "Bawang Putih Honan (kg)",
+    "provinsi": "Sulawesi Tenggara",
+    "mae": 2335.33,
+    "rmse": 2688.43,
+    "mape": 5.59,
+    "n_samples": 528
+  },
+  "Bawang_Putih_Honan_(kg)_Sulawesi_Utara": {
+    "komoditas": "Bawang Putih Honan (kg)",
+    "provinsi": "Sulawesi Utara",
+    "mae": 2134.78,
+    "rmse": 2590.07,
+    "mape": 5.27,
+    "n_samples": 528
+  },
+  "Bawang_Putih_Honan_(kg)_Sumatera_Barat": {
+    "komoditas": "Bawang Putih Honan (kg)",
+    "provinsi": "Sumatera Barat",
+    "mae": 1622.49,
+    "rmse": 1720.64,
+    "mape": 4.64,
+    "n_samples": 528
+  },
+  "Bawang_Putih_Honan_(kg)_Sumatera_Selatan": {
+    "komoditas": "Bawang Putih Honan (kg)",
+    "provinsi": "Sumatera Selatan",
+    "mae": 1246.89,
+    "rmse": 1510.95,
+    "mape": 3.73,
+    "n_samples": 528
+  },
+  "Bawang_Putih_Honan_(kg)_Sumatera_Utara": {
+    "komoditas": "Bawang Putih Honan (kg)",
+    "provinsi": "Sumatera Utara",
+    "mae": 2273.73,
+    "rmse": 2535.94,
+    "mape": 6.5,
+    "n_samples": 528
+  },
+  "Beras_Medium_(kg)_Aceh": {
+    "komoditas": "Beras Medium (kg)",
+    "provinsi": "Aceh",
+    "mae": 462.54,
+    "rmse": 599.15,
+    "mape": 3.2,
+    "n_samples": 528
+  },
+  "Beras_Medium_(kg)_Bali": {
+    "komoditas": "Beras Medium (kg)",
+    "provinsi": "Bali",
+    "mae": 145.45,
+    "rmse": 182.96,
+    "mape": 1.05,
+    "n_samples": 528
+  },
+  "Beras_Medium_(kg)_Banten": {
+    "komoditas": "Beras Medium (kg)",
+    "provinsi": "Banten",
+    "mae": 152.57,
+    "rmse": 176.53,
+    "mape": 1.18,
+    "n_samples": 528
+  },
+  "Beras_Medium_(kg)_Bengkulu": {
+    "komoditas": "Beras Medium (kg)",
+    "provinsi": "Bengkulu",
+    "mae": 68.3,
+    "rmse": 87.7,
+    "mape": 0.5,
+    "n_samples": 528
+  },
+  "Beras_Medium_(kg)_DI_Yogyakarta": {
+    "komoditas": "Beras Medium (kg)",
+    "provinsi": "DI Yogyakarta",
+    "mae": 33.88,
+    "rmse": 60.16,
+    "mape": 0.26,
+    "n_samples": 528
+  },
+  "Beras_Medium_(kg)_DKI_Jakarta": {
+    "komoditas": "Beras Medium (kg)",
+    "provinsi": "DKI Jakarta",
+    "mae": 313.51,
+    "rmse": 365.81,
+    "mape": 2.24,
+    "n_samples": 528
+  },
+  "Beras_Medium_(kg)_Gorontalo": {
+    "komoditas": "Beras Medium (kg)",
+    "provinsi": "Gorontalo",
+    "mae": 128.6,
+    "rmse": 152.58,
+    "mape": 0.94,
+    "n_samples": 528
+  },
+  "Beras_Medium_(kg)_Jambi": {
+    "komoditas": "Beras Medium (kg)",
+    "provinsi": "Jambi",
+    "mae": 60.3,
+    "rmse": 74.27,
+    "mape": 0.46,
+    "n_samples": 528
+  },
+  "Beras_Medium_(kg)_Jawa_Barat": {
+    "komoditas": "Beras Medium (kg)",
+    "provinsi": "Jawa Barat",
+    "mae": 40.22,
+    "rmse": 81.84,
+    "mape": 0.31,
+    "n_samples": 528
+  },
+  "Beras_Medium_(kg)_Jawa_Tengah": {
+    "komoditas": "Beras Medium (kg)",
+    "provinsi": "Jawa Tengah",
+    "mae": 203.37,
+    "rmse": 239.39,
+    "mape": 1.53,
+    "n_samples": 528
+  },
+  "Beras_Medium_(kg)_Jawa_Timur": {
+    "komoditas": "Beras Medium (kg)",
+    "provinsi": "Jawa Timur",
+    "mae": 330.3,
+    "rmse": 389.99,
+    "mape": 2.54,
+    "n_samples": 528
+  },
+  "Beras_Medium_(kg)_Kalimantan_Barat": {
+    "komoditas": "Beras Medium (kg)",
+    "provinsi": "Kalimantan Barat",
+    "mae": 398.81,
+    "rmse": 457.53,
+    "mape": 2.75,
+    "n_samples": 528
+  },
+  "Beras_Medium_(kg)_Kalimantan_Selatan": {
+    "komoditas": "Beras Medium (kg)",
+    "provinsi": "Kalimantan Selatan",
+    "mae": 110.56,
+    "rmse": 214.52,
+    "mape": 0.83,
+    "n_samples": 528
+  },
+  "Beras_Medium_(kg)_Kalimantan_Tengah": {
+    "komoditas": "Beras Medium (kg)",
+    "provinsi": "Kalimantan Tengah",
+    "mae": 812.92,
+    "rmse": 931.29,
+    "mape": 5.8,
+    "n_samples": 528
+  },
+  "Beras_Medium_(kg)_Kalimantan_Timur": {
+    "komoditas": "Beras Medium (kg)",
+    "provinsi": "Kalimantan Timur",
+    "mae": 267.35,
+    "rmse": 339.84,
+    "mape": 1.79,
+    "n_samples": 528
+  },
+  "Beras_Medium_(kg)_Kalimantan_Utara": {
+    "komoditas": "Beras Medium (kg)",
+    "provinsi": "Kalimantan Utara",
+    "mae": 314.75,
+    "rmse": 425.54,
+    "mape": 2.03,
+    "n_samples": 528
+  },
+  "Beras_Medium_(kg)_Kepulauan_Bangka_Belitung": {
+    "komoditas": "Beras Medium (kg)",
+    "provinsi": "Kepulauan Bangka Belitung",
+    "mae": 460.01,
+    "rmse": 522.58,
+    "mape": 3.28,
+    "n_samples": 528
+  },
+  "Beras_Medium_(kg)_Kepulauan_Riau": {
+    "komoditas": "Beras Medium (kg)",
+    "provinsi": "Kepulauan Riau",
+    "mae": 867.18,
+    "rmse": 982.36,
+    "mape": 6.37,
+    "n_samples": 528
+  },
+  "Beras_Medium_(kg)_Lampung": {
+    "komoditas": "Beras Medium (kg)",
+    "provinsi": "Lampung",
+    "mae": 136.32,
+    "rmse": 162.78,
+    "mape": 1.04,
+    "n_samples": 528
+  },
+  "Beras_Medium_(kg)_Maluku": {
+    "komoditas": "Beras Medium (kg)",
+    "provinsi": "Maluku",
+    "mae": 378.58,
+    "rmse": 438.76,
+    "mape": 2.38,
+    "n_samples": 528
+  },
+  "Beras_Medium_(kg)_Maluku_Utara": {
+    "komoditas": "Beras Medium (kg)",
+    "provinsi": "Maluku Utara",
+    "mae": 189.69,
+    "rmse": 271.63,
+    "mape": 1.13,
+    "n_samples": 528
+  },
+  "Beras_Medium_(kg)_Nusa_Tenggara_Barat": {
+    "komoditas": "Beras Medium (kg)",
+    "provinsi": "Nusa Tenggara Barat",
+    "mae": 378.83,
+    "rmse": 422.88,
+    "mape": 2.81,
+    "n_samples": 528
+  },
+  "Beras_Medium_(kg)_Nusa_Tenggara_Timur": {
+    "komoditas": "Beras Medium (kg)",
+    "provinsi": "Nusa Tenggara Timur",
+    "mae": 5.51,
+    "rmse": 19.37,
+    "mape": 0.04,
+    "n_samples": 528
+  },
+  "Beras_Medium_(kg)_Papua": {
+    "komoditas": "Beras Medium (kg)",
+    "provinsi": "Papua",
+    "mae": 428.09,
+    "rmse": 499.42,
+    "mape": 2.43,
+    "n_samples": 528
+  },
+  "Beras_Medium_(kg)_Papua_Barat": {
+    "komoditas": "Beras Medium (kg)",
+    "provinsi": "Papua Barat",
+    "mae": 296.56,
+    "rmse": 395.73,
+    "mape": 1.96,
+    "n_samples": 528
+  },
+  "Beras_Medium_(kg)_Riau": {
+    "komoditas": "Beras Medium (kg)",
+    "provinsi": "Riau",
+    "mae": 857.12,
+    "rmse": 948.81,
+    "mape": 6.13,
+    "n_samples": 528
+  },
+  "Beras_Medium_(kg)_Sulawesi_Barat": {
+    "komoditas": "Beras Medium (kg)",
+    "provinsi": "Sulawesi Barat",
+    "mae": 143.2,
+    "rmse": 159.86,
+    "mape": 1.05,
+    "n_samples": 528
+  },
+  "Beras_Medium_(kg)_Sulawesi_Selatan": {
+    "komoditas": "Beras Medium (kg)",
+    "provinsi": "Sulawesi Selatan",
+    "mae": 82.94,
+    "rmse": 100.56,
+    "mape": 0.63,
+    "n_samples": 528
+  },
+  "Beras_Medium_(kg)_Sulawesi_Tengah": {
+    "komoditas": "Beras Medium (kg)",
+    "provinsi": "Sulawesi Tengah",
+    "mae": 155.99,
+    "rmse": 201.3,
+    "mape": 1.14,
+    "n_samples": 528
+  },
+  "Beras_Medium_(kg)_Sulawesi_Tenggara": {
+    "komoditas": "Beras Medium (kg)",
+    "provinsi": "Sulawesi Tenggara",
+    "mae": 96.25,
+    "rmse": 133.57,
+    "mape": 0.7,
+    "n_samples": 528
+  },
+  "Beras_Medium_(kg)_Sulawesi_Utara": {
+    "komoditas": "Beras Medium (kg)",
+    "provinsi": "Sulawesi Utara",
+    "mae": 236.5,
+    "rmse": 289.06,
+    "mape": 1.64,
+    "n_samples": 528
+  },
+  "Beras_Medium_(kg)_Sumatera_Barat": {
+    "komoditas": "Beras Medium (kg)",
+    "provinsi": "Sumatera Barat",
+    "mae": 39.33,
+    "rmse": 65.92,
+    "mape": 0.25,
+    "n_samples": 528
+  },
+  "Beras_Medium_(kg)_Sumatera_Selatan": {
+    "komoditas": "Beras Medium (kg)",
+    "provinsi": "Sumatera Selatan",
+    "mae": 113.16,
+    "rmse": 159.13,
+    "mape": 0.87,
+    "n_samples": 528
+  },
+  "Beras_Medium_(kg)_Sumatera_Utara": {
+    "komoditas": "Beras Medium (kg)",
+    "provinsi": "Sumatera Utara",
+    "mae": 321.46,
+    "rmse": 338.82,
+    "mape": 2.23,
+    "n_samples": 528
+  },
+  "Beras_Premium_(kg)_Aceh": {
+    "komoditas": "Beras Premium (kg)",
+    "provinsi": "Aceh",
+    "mae": 393.54,
+    "rmse": 559.49,
+    "mape": 2.51,
+    "n_samples": 528
+  },
+  "Beras_Premium_(kg)_Bali": {
+    "komoditas": "Beras Premium (kg)",
+    "provinsi": "Bali",
+    "mae": 192.77,
+    "rmse": 215.69,
+    "mape": 1.25,
+    "n_samples": 528
+  },
+  "Beras_Premium_(kg)_Banten": {
+    "komoditas": "Beras Premium (kg)",
+    "provinsi": "Banten",
+    "mae": 49.83,
+    "rmse": 58.35,
+    "mape": 0.33,
+    "n_samples": 528
+  },
+  "Beras_Premium_(kg)_Bengkulu": {
+    "komoditas": "Beras Premium (kg)",
+    "provinsi": "Bengkulu",
+    "mae": 72.63,
+    "rmse": 91.68,
+    "mape": 0.47,
+    "n_samples": 528
+  },
+  "Beras_Premium_(kg)_DI_Yogyakarta": {
+    "komoditas": "Beras Premium (kg)",
+    "provinsi": "DI Yogyakarta",
+    "mae": 143.56,
+    "rmse": 163.02,
+    "mape": 0.98,
+    "n_samples": 528
+  },
+  "Beras_Premium_(kg)_DKI_Jakarta": {
+    "komoditas": "Beras Premium (kg)",
+    "provinsi": "DKI Jakarta",
+    "mae": 340.96,
+    "rmse": 383.09,
+    "mape": 2.1,
+    "n_samples": 528
+  },
+  "Beras_Premium_(kg)_Gorontalo": {
+    "komoditas": "Beras Premium (kg)",
+    "provinsi": "Gorontalo",
+    "mae": 1031.25,
+    "rmse": 1304.44,
+    "mape": 7.93,
+    "n_samples": 49
+  },
+  "Beras_Premium_(kg)_Jambi": {
+    "komoditas": "Beras Premium (kg)",
+    "provinsi": "Jambi",
+    "mae": 171.18,
+    "rmse": 190.21,
+    "mape": 1.12,
+    "n_samples": 528
+  },
+  "Beras_Premium_(kg)_Jawa_Barat": {
+    "komoditas": "Beras Premium (kg)",
+    "provinsi": "Jawa Barat",
+    "mae": 40.2,
+    "rmse": 65.53,
+    "mape": 0.28,
+    "n_samples": 528
+  },
+  "Beras_Premium_(kg)_Jawa_Tengah": {
+    "komoditas": "Beras Premium (kg)",
+    "provinsi": "Jawa Tengah",
+    "mae": 173.73,
+    "rmse": 194.27,
+    "mape": 1.18,
+    "n_samples": 528
+  },
+  "Beras_Premium_(kg)_Jawa_Timur": {
+    "komoditas": "Beras Premium (kg)",
+    "provinsi": "Jawa Timur",
+    "mae": 177.01,
+    "rmse": 205.37,
+    "mape": 1.2,
+    "n_samples": 528
+  },
+  "Beras_Premium_(kg)_Kalimantan_Barat": {
+    "komoditas": "Beras Premium (kg)",
+    "provinsi": "Kalimantan Barat",
+    "mae": 30.38,
+    "rmse": 40.91,
+    "mape": 0.18,
+    "n_samples": 528
+  },
+  "Beras_Premium_(kg)_Kalimantan_Selatan": {
+    "komoditas": "Beras Premium (kg)",
+    "provinsi": "Kalimantan Selatan",
+    "mae": 274.31,
+    "rmse": 323.48,
+    "mape": 1.69,
+    "n_samples": 528
+  },
+  "Beras_Premium_(kg)_Kalimantan_Tengah": {
+    "komoditas": "Beras Premium (kg)",
+    "provinsi": "Kalimantan Tengah",
+    "mae": 136.67,
+    "rmse": 155.43,
+    "mape": 0.81,
+    "n_samples": 528
+  },
+  "Beras_Premium_(kg)_Kalimantan_Timur": {
+    "komoditas": "Beras Premium (kg)",
+    "provinsi": "Kalimantan Timur",
+    "mae": 1001.52,
+    "rmse": 1134.83,
+    "mape": 6.21,
+    "n_samples": 528
+  },
+  "Beras_Premium_(kg)_Kalimantan_Utara": {
+    "komoditas": "Beras Premium (kg)",
+    "provinsi": "Kalimantan Utara",
+    "mae": 138.28,
+    "rmse": 154.74,
+    "mape": 0.82,
+    "n_samples": 528
+  },
+  "Beras_Premium_(kg)_Kepulauan_Bangka_Belitung": {
+    "komoditas": "Beras Premium (kg)",
+    "provinsi": "Kepulauan Bangka Belitung",
+    "mae": 83.02,
+    "rmse": 110.26,
+    "mape": 0.53,
+    "n_samples": 528
+  },
+  "Beras_Premium_(kg)_Kepulauan_Riau": {
+    "komoditas": "Beras Premium (kg)",
+    "provinsi": "Kepulauan Riau",
+    "mae": 610.77,
+    "rmse": 696.54,
+    "mape": 3.98,
+    "n_samples": 528
+  },
+  "Beras_Premium_(kg)_Lampung": {
+    "komoditas": "Beras Premium (kg)",
+    "provinsi": "Lampung",
+    "mae": 104.59,
+    "rmse": 137.47,
+    "mape": 0.71,
+    "n_samples": 528
+  },
+  "Beras_Premium_(kg)_Maluku": {
+    "komoditas": "Beras Premium (kg)",
+    "provinsi": "Maluku",
+    "mae": 359.18,
+    "rmse": 435.34,
+    "mape": 1.94,
+    "n_samples": 528
+  },
+  "Beras_Premium_(kg)_Maluku_Utara": {
+    "komoditas": "Beras Premium (kg)",
+    "provinsi": "Maluku Utara",
+    "mae": 292.5,
+    "rmse": 320.06,
+    "mape": 1.63,
+    "n_samples": 528
+  },
+  "Beras_Premium_(kg)_Nusa_Tenggara_Barat": {
+    "komoditas": "Beras Premium (kg)",
+    "provinsi": "Nusa Tenggara Barat",
+    "mae": 140.56,
+    "rmse": 160.51,
+    "mape": 0.95,
+    "n_samples": 528
+  },
+  "Beras_Premium_(kg)_Nusa_Tenggara_Timur": {
+    "komoditas": "Beras Premium (kg)",
+    "provinsi": "Nusa Tenggara Timur",
+    "mae": 157.45,
+    "rmse": 208.91,
+    "mape": 1.0,
+    "n_samples": 528
+  },
+  "Beras_Premium_(kg)_Papua": {
+    "komoditas": "Beras Premium (kg)",
+    "provinsi": "Papua",
+    "mae": 115.83,
+    "rmse": 230.74,
+    "mape": 0.59,
+    "n_samples": 528
+  },
+  "Beras_Premium_(kg)_Papua_Barat": {
+    "komoditas": "Beras Premium (kg)",
+    "provinsi": "Papua Barat",
+    "mae": 170.67,
+    "rmse": 238.17,
+    "mape": 0.96,
+    "n_samples": 528
+  },
+  "Beras_Premium_(kg)_Riau": {
+    "komoditas": "Beras Premium (kg)",
+    "provinsi": "Riau",
+    "mae": 394.14,
+    "rmse": 505.4,
+    "mape": 2.48,
+    "n_samples": 528
+  },
+  "Beras_Premium_(kg)_Sulawesi_Barat": {
+    "komoditas": "Beras Premium (kg)",
+    "provinsi": "Sulawesi Barat",
+    "mae": 373.44,
+    "rmse": 444.24,
+    "mape": 2.49,
+    "n_samples": 528
+  },
+  "Beras_Premium_(kg)_Sulawesi_Selatan": {
+    "komoditas": "Beras Premium (kg)",
+    "provinsi": "Sulawesi Selatan",
+    "mae": 145.38,
+    "rmse": 174.61,
+    "mape": 0.99,
+    "n_samples": 528
+  },
+  "Beras_Premium_(kg)_Sulawesi_Tengah": {
+    "komoditas": "Beras Premium (kg)",
+    "provinsi": "Sulawesi Tengah",
+    "mae": 170.52,
+    "rmse": 213.47,
+    "mape": 1.11,
+    "n_samples": 528
+  },
+  "Beras_Premium_(kg)_Sulawesi_Tenggara": {
+    "komoditas": "Beras Premium (kg)",
+    "provinsi": "Sulawesi Tenggara",
+    "mae": 142.32,
+    "rmse": 160.56,
+    "mape": 0.95,
+    "n_samples": 528
+  },
+  "Beras_Premium_(kg)_Sulawesi_Utara": {
+    "komoditas": "Beras Premium (kg)",
+    "provinsi": "Sulawesi Utara",
+    "mae": 311.22,
+    "rmse": 354.02,
+    "mape": 2.02,
+    "n_samples": 528
+  },
+  "Beras_Premium_(kg)_Sumatera_Barat": {
+    "komoditas": "Beras Premium (kg)",
+    "provinsi": "Sumatera Barat",
+    "mae": 121.75,
+    "rmse": 170.81,
+    "mape": 0.73,
+    "n_samples": 528
+  },
+  "Beras_Premium_(kg)_Sumatera_Selatan": {
+    "komoditas": "Beras Premium (kg)",
+    "provinsi": "Sumatera Selatan",
+    "mae": 171.56,
+    "rmse": 208.79,
+    "mape": 1.18,
+    "n_samples": 528
+  },
+  "Beras_Premium_(kg)_Sumatera_Utara": {
+    "komoditas": "Beras Premium (kg)",
+    "provinsi": "Sumatera Utara",
+    "mae": 176.46,
+    "rmse": 208.13,
+    "mape": 1.13,
+    "n_samples": 528
+  },
+  "Cabai_Merah_Besar_(kg)_Aceh": {
+    "komoditas": "Cabai Merah Besar (kg)",
+    "provinsi": "Aceh",
+    "mae": 5899.79,
+    "rmse": 7231.55,
+    "mape": 18.09,
+    "n_samples": 528
+  },
+  "Cabai_Merah_Besar_(kg)_Bali": {
+    "komoditas": "Cabai Merah Besar (kg)",
+    "provinsi": "Bali",
+    "mae": 7785.59,
+    "rmse": 9148.68,
+    "mape": 28.39,
+    "n_samples": 528
+  },
+  "Cabai_Merah_Besar_(kg)_Banten": {
+    "komoditas": "Cabai Merah Besar (kg)",
+    "provinsi": "Banten",
+    "mae": 7252.49,
+    "rmse": 8398.96,
+    "mape": 16.73,
+    "n_samples": 528
+  },
+  "Cabai_Merah_Besar_(kg)_Bengkulu": {
+    "komoditas": "Cabai Merah Besar (kg)",
+    "provinsi": "Bengkulu",
+    "mae": 5854.56,
+    "rmse": 7052.04,
+    "mape": 15.9,
+    "n_samples": 528
+  },
+  "Cabai_Merah_Besar_(kg)_DI_Yogyakarta": {
+    "komoditas": "Cabai Merah Besar (kg)",
+    "provinsi": "DI Yogyakarta",
+    "mae": 8625.4,
+    "rmse": 9996.02,
+    "mape": 20.52,
+    "n_samples": 528
+  },
+  "Cabai_Merah_Besar_(kg)_DKI_Jakarta": {
+    "komoditas": "Cabai Merah Besar (kg)",
+    "provinsi": "DKI Jakarta",
+    "mae": 5584.38,
+    "rmse": 6479.05,
+    "mape": 10.15,
+    "n_samples": 528
+  },
+  "Cabai_Merah_Besar_(kg)_Jambi": {
+    "komoditas": "Cabai Merah Besar (kg)",
+    "provinsi": "Jambi",
+    "mae": 3895.89,
+    "rmse": 5076.36,
+    "mape": 8.81,
+    "n_samples": 528
+  },
+  "Cabai_Merah_Besar_(kg)_Jawa_Barat": {
+    "komoditas": "Cabai Merah Besar (kg)",
+    "provinsi": "Jawa Barat",
+    "mae": 8240.26,
+    "rmse": 9086.27,
+    "mape": 21.15,
+    "n_samples": 528
+  },
+  "Cabai_Merah_Besar_(kg)_Jawa_Tengah": {
+    "komoditas": "Cabai Merah Besar (kg)",
+    "provinsi": "Jawa Tengah",
+    "mae": 7380.45,
+    "rmse": 8312.96,
+    "mape": 21.18,
+    "n_samples": 528
+  },
+  "Cabai_Merah_Besar_(kg)_Jawa_Timur": {
+    "komoditas": "Cabai Merah Besar (kg)",
+    "provinsi": "Jawa Timur",
+    "mae": 7999.56,
+    "rmse": 9107.21,
+    "mape": 28.01,
+    "n_samples": 528
+  },
+  "Cabai_Merah_Besar_(kg)_Kalimantan_Barat": {
+    "komoditas": "Cabai Merah Besar (kg)",
+    "provinsi": "Kalimantan Barat",
+    "mae": 4431.67,
+    "rmse": 5532.96,
+    "mape": 7.47,
+    "n_samples": 528
+  },
+  "Cabai_Merah_Besar_(kg)_Kalimantan_Selatan": {
+    "komoditas": "Cabai Merah Besar (kg)",
+    "provinsi": "Kalimantan Selatan",
+    "mae": 10994.19,
+    "rmse": 12181.92,
+    "mape": 24.14,
+    "n_samples": 528
+  },
+  "Cabai_Merah_Besar_(kg)_Kalimantan_Tengah": {
+    "komoditas": "Cabai Merah Besar (kg)",
+    "provinsi": "Kalimantan Tengah",
+    "mae": 12879.12,
+    "rmse": 14008.46,
+    "mape": 18.95,
+    "n_samples": 528
+  },
+  "Cabai_Merah_Besar_(kg)_Kalimantan_Timur": {
+    "komoditas": "Cabai Merah Besar (kg)",
+    "provinsi": "Kalimantan Timur",
+    "mae": 6168.66,
+    "rmse": 7059.13,
+    "mape": 12.75,
+    "n_samples": 528
+  },
+  "Cabai_Merah_Besar_(kg)_Kalimantan_Utara": {
+    "komoditas": "Cabai Merah Besar (kg)",
+    "provinsi": "Kalimantan Utara",
+    "mae": 12363.53,
+    "rmse": 14433.81,
+    "mape": 22.98,
+    "n_samples": 528
+  },
+  "Cabai_Merah_Besar_(kg)_Kepulauan_Bangka_Belitung": {
+    "komoditas": "Cabai Merah Besar (kg)",
+    "provinsi": "Kepulauan Bangka Belitung",
+    "mae": 6462.48,
+    "rmse": 8031.05,
+    "mape": 12.24,
+    "n_samples": 528
+  },
+  "Cabai_Merah_Besar_(kg)_Kepulauan_Riau": {
+    "komoditas": "Cabai Merah Besar (kg)",
+    "provinsi": "Kepulauan Riau",
+    "mae": 3576.25,
+    "rmse": 5584.23,
+    "mape": 5.57,
+    "n_samples": 528
+  },
+  "Cabai_Merah_Besar_(kg)_Lampung": {
+    "komoditas": "Cabai Merah Besar (kg)",
+    "provinsi": "Lampung",
+    "mae": 4998.53,
+    "rmse": 5738.24,
+    "mape": 13.89,
+    "n_samples": 528
+  },
+  "Cabai_Merah_Besar_(kg)_Maluku": {
+    "komoditas": "Cabai Merah Besar (kg)",
+    "provinsi": "Maluku",
+    "mae": 4177.17,
+    "rmse": 5582.01,
+    "mape": 7.06,
+    "n_samples": 528
+  },
+  "Cabai_Merah_Besar_(kg)_Maluku_Utara": {
+    "komoditas": "Cabai Merah Besar (kg)",
+    "provinsi": "Maluku Utara",
+    "mae": 4482.09,
+    "rmse": 5855.58,
+    "mape": 10.22,
+    "n_samples": 528
+  },
+  "Cabai_Merah_Besar_(kg)_Nusa_Tenggara_Barat": {
+    "komoditas": "Cabai Merah Besar (kg)",
+    "provinsi": "Nusa Tenggara Barat",
+    "mae": 5268.12,
+    "rmse": 6470.45,
+    "mape": 13.85,
+    "n_samples": 528
+  },
+  "Cabai_Merah_Besar_(kg)_Nusa_Tenggara_Timur": {
+    "komoditas": "Cabai Merah Besar (kg)",
+    "provinsi": "Nusa Tenggara Timur",
+    "mae": 3167.52,
+    "rmse": 3945.84,
+    "mape": 6.12,
+    "n_samples": 528
+  },
+  "Cabai_Merah_Besar_(kg)_Papua": {
+    "komoditas": "Cabai Merah Besar (kg)",
+    "provinsi": "Papua",
+    "mae": 3432.09,
+    "rmse": 3905.22,
+    "mape": 3.85,
+    "n_samples": 528
+  },
+  "Cabai_Merah_Besar_(kg)_Papua_Barat": {
+    "komoditas": "Cabai Merah Besar (kg)",
+    "provinsi": "Papua Barat",
+    "mae": 8313.53,
+    "rmse": 9480.53,
+    "mape": 10.75,
+    "n_samples": 528
+  },
+  "Cabai_Merah_Besar_(kg)_Riau": {
+    "komoditas": "Cabai Merah Besar (kg)",
+    "provinsi": "Riau",
+    "mae": 12644.17,
+    "rmse": 13719.88,
+    "mape": 15.28,
+    "n_samples": 528
+  },
+  "Cabai_Merah_Besar_(kg)_Sulawesi_Barat": {
+    "komoditas": "Cabai Merah Besar (kg)",
+    "provinsi": "Sulawesi Barat",
+    "mae": 7384.8,
+    "rmse": 8167.46,
+    "mape": 30.86,
+    "n_samples": 528
+  },
+  "Cabai_Merah_Besar_(kg)_Sulawesi_Selatan": {
+    "komoditas": "Cabai Merah Besar (kg)",
+    "provinsi": "Sulawesi Selatan",
+    "mae": 6124.15,
+    "rmse": 6639.97,
+    "mape": 28.83,
+    "n_samples": 528
+  },
+  "Cabai_Merah_Besar_(kg)_Sulawesi_Tengah": {
+    "komoditas": "Cabai Merah Besar (kg)",
+    "provinsi": "Sulawesi Tengah",
+    "mae": 2505.82,
+    "rmse": 3218.22,
+    "mape": 6.17,
+    "n_samples": 528
+  },
+  "Cabai_Merah_Besar_(kg)_Sulawesi_Tenggara": {
+    "komoditas": "Cabai Merah Besar (kg)",
+    "provinsi": "Sulawesi Tenggara",
+    "mae": 5592.98,
+    "rmse": 6428.46,
+    "mape": 14.89,
+    "n_samples": 528
+  },
+  "Cabai_Merah_Besar_(kg)_Sulawesi_Utara": {
+    "komoditas": "Cabai Merah Besar (kg)",
+    "provinsi": "Sulawesi Utara",
+    "mae": 5970.83,
+    "rmse": 7167.69,
+    "mape": 20.08,
+    "n_samples": 528
+  },
+  "Cabai_Merah_Besar_(kg)_Sumatera_Barat": {
+    "komoditas": "Cabai Merah Besar (kg)",
+    "provinsi": "Sumatera Barat",
+    "mae": 4812.38,
+    "rmse": 6045.47,
+    "mape": 10.58,
+    "n_samples": 528
+  },
+  "Cabai_Merah_Besar_(kg)_Sumatera_Selatan": {
+    "komoditas": "Cabai Merah Besar (kg)",
+    "provinsi": "Sumatera Selatan",
+    "mae": 4301.44,
+    "rmse": 5340.99,
+    "mape": 12.13,
+    "n_samples": 528
+  },
+  "Cabai_Merah_Besar_(kg)_Sumatera_Utara": {
+    "komoditas": "Cabai Merah Besar (kg)",
+    "provinsi": "Sumatera Utara",
+    "mae": 6834.79,
+    "rmse": 8229.53,
+    "mape": 23.26,
+    "n_samples": 528
+  },
+  "Cabai_Merah_Keriting_(kg)_Aceh": {
+    "komoditas": "Cabai Merah Keriting (kg)",
+    "provinsi": "Aceh",
+    "mae": 8509.18,
+    "rmse": 9922.18,
+    "mape": 27.59,
+    "n_samples": 528
+  },
+  "Cabai_Merah_Keriting_(kg)_Bali": {
+    "komoditas": "Cabai Merah Keriting (kg)",
+    "provinsi": "Bali",
+    "mae": 7189.95,
+    "rmse": 9137.34,
+    "mape": 21.74,
+    "n_samples": 528
+  },
+  "Cabai_Merah_Keriting_(kg)_Banten": {
+    "komoditas": "Cabai Merah Keriting (kg)",
+    "provinsi": "Banten",
+    "mae": 8787.48,
+    "rmse": 9946.29,
+    "mape": 22.37,
+    "n_samples": 528
+  },
+  "Cabai_Merah_Keriting_(kg)_Bengkulu": {
+    "komoditas": "Cabai Merah Keriting (kg)",
+    "provinsi": "Bengkulu",
+    "mae": 6209.79,
+    "rmse": 7241.95,
+    "mape": 14.81,
+    "n_samples": 528
+  },
+  "Cabai_Merah_Keriting_(kg)_DI_Yogyakarta": {
+    "komoditas": "Cabai Merah Keriting (kg)",
+    "provinsi": "DI Yogyakarta",
+    "mae": 8895.42,
+    "rmse": 10306.6,
+    "mape": 22.31,
+    "n_samples": 528
+  },
+  "Cabai_Merah_Keriting_(kg)_DKI_Jakarta": {
+    "komoditas": "Cabai Merah Keriting (kg)",
+    "provinsi": "DKI Jakarta",
+    "mae": 6330.35,
+    "rmse": 7220.53,
+    "mape": 11.96,
+    "n_samples": 528
+  },
+  "Cabai_Merah_Keriting_(kg)_Gorontalo": {
+    "komoditas": "Cabai Merah Keriting (kg)",
+    "provinsi": "Gorontalo",
+    "mae": 5912.11,
+    "rmse": 7234.41,
+    "mape": 18.37,
+    "n_samples": 528
+  },
+  "Cabai_Merah_Keriting_(kg)_Jambi": {
+    "komoditas": "Cabai Merah Keriting (kg)",
+    "provinsi": "Jambi",
+    "mae": 5157.47,
+    "rmse": 6289.95,
+    "mape": 13.48,
+    "n_samples": 528
+  },
+  "Cabai_Merah_Keriting_(kg)_Jawa_Barat": {
+    "komoditas": "Cabai Merah Keriting (kg)",
+    "provinsi": "Jawa Barat",
+    "mae": 7177.94,
+    "rmse": 8408.14,
+    "mape": 18.68,
+    "n_samples": 528
+  },
+  "Cabai_Merah_Keriting_(kg)_Jawa_Tengah": {
+    "komoditas": "Cabai Merah Keriting (kg)",
+    "provinsi": "Jawa Tengah",
+    "mae": 8087.53,
+    "rmse": 8922.61,
+    "mape": 22.39,
+    "n_samples": 528
+  },
+  "Cabai_Merah_Keriting_(kg)_Jawa_Timur": {
+    "komoditas": "Cabai Merah Keriting (kg)",
+    "provinsi": "Jawa Timur",
+    "mae": 7633.54,
+    "rmse": 8660.73,
+    "mape": 24.42,
+    "n_samples": 528
+  },
+  "Cabai_Merah_Keriting_(kg)_Kalimantan_Barat": {
+    "komoditas": "Cabai Merah Keriting (kg)",
+    "provinsi": "Kalimantan Barat",
+    "mae": 7161.67,
+    "rmse": 8317.03,
+    "mape": 11.09,
+    "n_samples": 528
+  },
+  "Cabai_Merah_Keriting_(kg)_Kalimantan_Selatan": {
+    "komoditas": "Cabai Merah Keriting (kg)",
+    "provinsi": "Kalimantan Selatan",
+    "mae": 12900.44,
+    "rmse": 14292.32,
+    "mape": 31.82,
+    "n_samples": 528
+  },
+  "Cabai_Merah_Keriting_(kg)_Kalimantan_Tengah": {
+    "komoditas": "Cabai Merah Keriting (kg)",
+    "provinsi": "Kalimantan Tengah",
+    "mae": 12804.14,
+    "rmse": 13929.13,
+    "mape": 20.61,
+    "n_samples": 528
+  },
+  "Cabai_Merah_Keriting_(kg)_Kalimantan_Timur": {
+    "komoditas": "Cabai Merah Keriting (kg)",
+    "provinsi": "Kalimantan Timur",
+    "mae": 10842.71,
+    "rmse": 11885.11,
+    "mape": 25.92,
+    "n_samples": 528
+  },
+  "Cabai_Merah_Keriting_(kg)_Kalimantan_Utara": {
+    "komoditas": "Cabai Merah Keriting (kg)",
+    "provinsi": "Kalimantan Utara",
+    "mae": 8148.99,
+    "rmse": 9183.61,
+    "mape": 14.53,
+    "n_samples": 528
+  },
+  "Cabai_Merah_Keriting_(kg)_Kepulauan_Bangka_Belitung": {
+    "komoditas": "Cabai Merah Keriting (kg)",
+    "provinsi": "Kepulauan Bangka Belitung",
+    "mae": 7433.74,
+    "rmse": 8934.0,
+    "mape": 13.51,
+    "n_samples": 528
+  },
+  "Cabai_Merah_Keriting_(kg)_Kepulauan_Riau": {
+    "komoditas": "Cabai Merah Keriting (kg)",
+    "provinsi": "Kepulauan Riau",
+    "mae": 7121.01,
+    "rmse": 8074.61,
+    "mape": 12.66,
+    "n_samples": 528
+  },
+  "Cabai_Merah_Keriting_(kg)_Lampung": {
+    "komoditas": "Cabai Merah Keriting (kg)",
+    "provinsi": "Lampung",
+    "mae": 5987.08,
+    "rmse": 6787.13,
+    "mape": 16.25,
+    "n_samples": 528
+  },
+  "Cabai_Merah_Keriting_(kg)_Maluku": {
+    "komoditas": "Cabai Merah Keriting (kg)",
+    "provinsi": "Maluku",
+    "mae": 7539.17,
+    "rmse": 8872.15,
+    "mape": 13.91,
+    "n_samples": 528
+  },
+  "Cabai_Merah_Keriting_(kg)_Maluku_Utara": {
+    "komoditas": "Cabai Merah Keriting (kg)",
+    "provinsi": "Maluku Utara",
+    "mae": 6007.65,
+    "rmse": 7500.45,
+    "mape": 13.71,
+    "n_samples": 528
+  },
+  "Cabai_Merah_Keriting_(kg)_Nusa_Tenggara_Barat": {
+    "komoditas": "Cabai Merah Keriting (kg)",
+    "provinsi": "Nusa Tenggara Barat",
+    "mae": 7676.04,
+    "rmse": 9699.61,
+    "mape": 19.22,
+    "n_samples": 528
+  },
+  "Cabai_Merah_Keriting_(kg)_Nusa_Tenggara_Timur": {
+    "komoditas": "Cabai Merah Keriting (kg)",
+    "provinsi": "Nusa Tenggara Timur",
+    "mae": 4019.75,
+    "rmse": 4632.19,
+    "mape": 7.87,
+    "n_samples": 528
+  },
+  "Cabai_Merah_Keriting_(kg)_Papua": {
+    "komoditas": "Cabai Merah Keriting (kg)",
+    "provinsi": "Papua",
+    "mae": 7896.22,
+    "rmse": 10046.63,
+    "mape": 8.38,
+    "n_samples": 528
+  },
+  "Cabai_Merah_Keriting_(kg)_Papua_Barat": {
+    "komoditas": "Cabai Merah Keriting (kg)",
+    "provinsi": "Papua Barat",
+    "mae": 3371.03,
+    "rmse": 4684.98,
+    "mape": 4.71,
+    "n_samples": 528
+  },
+  "Cabai_Merah_Keriting_(kg)_Riau": {
+    "komoditas": "Cabai Merah Keriting (kg)",
+    "provinsi": "Riau",
+    "mae": 5743.33,
+    "rmse": 7083.91,
+    "mape": 12.37,
+    "n_samples": 528
+  },
+  "Cabai_Merah_Keriting_(kg)_Sulawesi_Barat": {
+    "komoditas": "Cabai Merah Keriting (kg)",
+    "provinsi": "Sulawesi Barat",
+    "mae": 6316.88,
+    "rmse": 8062.36,
+    "mape": 26.17,
+    "n_samples": 528
+  },
+  "Cabai_Merah_Keriting_(kg)_Sulawesi_Selatan": {
+    "komoditas": "Cabai Merah Keriting (kg)",
+    "provinsi": "Sulawesi Selatan",
+    "mae": 5437.07,
+    "rmse": 6576.39,
+    "mape": 23.89,
+    "n_samples": 528
+  },
+  "Cabai_Merah_Keriting_(kg)_Sulawesi_Tengah": {
+    "komoditas": "Cabai Merah Keriting (kg)",
+    "provinsi": "Sulawesi Tengah",
+    "mae": 5368.92,
+    "rmse": 6119.93,
+    "mape": 17.89,
+    "n_samples": 528
+  },
+  "Cabai_Merah_Keriting_(kg)_Sulawesi_Tenggara": {
+    "komoditas": "Cabai Merah Keriting (kg)",
+    "provinsi": "Sulawesi Tenggara",
+    "mae": 4567.03,
+    "rmse": 5185.74,
+    "mape": 11.82,
+    "n_samples": 528
+  },
+  "Cabai_Merah_Keriting_(kg)_Sulawesi_Utara": {
+    "komoditas": "Cabai Merah Keriting (kg)",
+    "provinsi": "Sulawesi Utara",
+    "mae": 9193.29,
+    "rmse": 11025.75,
+    "mape": 41.38,
+    "n_samples": 528
+  },
+  "Cabai_Merah_Keriting_(kg)_Sumatera_Barat": {
+    "komoditas": "Cabai Merah Keriting (kg)",
+    "provinsi": "Sumatera Barat",
+    "mae": 4759.13,
+    "rmse": 5857.48,
+    "mape": 10.12,
+    "n_samples": 528
+  },
+  "Cabai_Merah_Keriting_(kg)_Sumatera_Selatan": {
+    "komoditas": "Cabai Merah Keriting (kg)",
+    "provinsi": "Sumatera Selatan",
+    "mae": 4242.49,
+    "rmse": 4837.06,
+    "mape": 10.92,
+    "n_samples": 528
+  },
+  "Cabai_Merah_Keriting_(kg)_Sumatera_Utara": {
+    "komoditas": "Cabai Merah Keriting (kg)",
+    "provinsi": "Sumatera Utara",
+    "mae": 6907.31,
+    "rmse": 8285.33,
+    "mape": 22.79,
+    "n_samples": 528
+  },
+  "Cabai_Rawit_Merah_(kg)_Aceh": {
+    "komoditas": "Cabai Rawit Merah (kg)",
+    "provinsi": "Aceh",
+    "mae": 2929.16,
+    "rmse": 3623.17,
+    "mape": 5.95,
+    "n_samples": 528
+  },
+  "Cabai_Rawit_Merah_(kg)_Bali": {
+    "komoditas": "Cabai Rawit Merah (kg)",
+    "provinsi": "Bali",
+    "mae": 15126.12,
+    "rmse": 18169.19,
+    "mape": 25.67,
+    "n_samples": 528
+  },
+  "Cabai_Rawit_Merah_(kg)_Banten": {
+    "komoditas": "Cabai Rawit Merah (kg)",
+    "provinsi": "Banten",
+    "mae": 14221.66,
+    "rmse": 17185.03,
+    "mape": 20.69,
+    "n_samples": 528
+  },
+  "Cabai_Rawit_Merah_(kg)_Bengkulu": {
+    "komoditas": "Cabai Rawit Merah (kg)",
+    "provinsi": "Bengkulu",
+    "mae": 8894.41,
+    "rmse": 11928.71,
+    "mape": 13.38,
+    "n_samples": 528
+  },
+  "Cabai_Rawit_Merah_(kg)_DI_Yogyakarta": {
+    "komoditas": "Cabai Rawit Merah (kg)",
+    "provinsi": "DI Yogyakarta",
+    "mae": 15140.84,
+    "rmse": 18778.84,
+    "mape": 25.21,
+    "n_samples": 528
+  },
+  "Cabai_Rawit_Merah_(kg)_DKI_Jakarta": {
+    "komoditas": "Cabai Rawit Merah (kg)",
+    "provinsi": "DKI Jakarta",
+    "mae": 16488.38,
+    "rmse": 19913.48,
+    "mape": 19.58,
+    "n_samples": 528
+  },
+  "Cabai_Rawit_Merah_(kg)_Gorontalo": {
+    "komoditas": "Cabai Rawit Merah (kg)",
+    "provinsi": "Gorontalo",
+    "mae": 11230.83,
+    "rmse": 13908.87,
+    "mape": 25.7,
+    "n_samples": 528
+  },
+  "Cabai_Rawit_Merah_(kg)_Jambi": {
+    "komoditas": "Cabai Rawit Merah (kg)",
+    "provinsi": "Jambi",
+    "mae": 9297.11,
+    "rmse": 11284.03,
+    "mape": 14.11,
+    "n_samples": 528
+  },
+  "Cabai_Rawit_Merah_(kg)_Jawa_Barat": {
+    "komoditas": "Cabai Rawit Merah (kg)",
+    "provinsi": "Jawa Barat",
+    "mae": 13598.54,
+    "rmse": 16549.26,
+    "mape": 20.8,
+    "n_samples": 528
+  },
+  "Cabai_Rawit_Merah_(kg)_Jawa_Tengah": {
+    "komoditas": "Cabai Rawit Merah (kg)",
+    "provinsi": "Jawa Tengah",
+    "mae": 13879.79,
+    "rmse": 16772.06,
+    "mape": 24.72,
+    "n_samples": 528
+  },
+  "Cabai_Rawit_Merah_(kg)_Jawa_Timur": {
+    "komoditas": "Cabai Rawit Merah (kg)",
+    "provinsi": "Jawa Timur",
+    "mae": 11714.08,
+    "rmse": 14624.06,
+    "mape": 21.46,
+    "n_samples": 528
+  },
+  "Cabai_Rawit_Merah_(kg)_Kalimantan_Barat": {
+    "komoditas": "Cabai Rawit Merah (kg)",
+    "provinsi": "Kalimantan Barat",
+    "mae": 12626.24,
+    "rmse": 14135.58,
+    "mape": 16.84,
+    "n_samples": 528
+  },
+  "Cabai_Rawit_Merah_(kg)_Kalimantan_Selatan": {
+    "komoditas": "Cabai Rawit Merah (kg)",
+    "provinsi": "Kalimantan Selatan",
+    "mae": 13310.81,
+    "rmse": 15278.68,
+    "mape": 16.44,
+    "n_samples": 528
+  },
+  "Cabai_Rawit_Merah_(kg)_Kalimantan_Tengah": {
+    "komoditas": "Cabai Rawit Merah (kg)",
+    "provinsi": "Kalimantan Tengah",
+    "mae": 13682.3,
+    "rmse": 16384.84,
+    "mape": 16.21,
+    "n_samples": 528
+  },
+  "Cabai_Rawit_Merah_(kg)_Kalimantan_Timur": {
+    "komoditas": "Cabai Rawit Merah (kg)",
+    "provinsi": "Kalimantan Timur",
+    "mae": 14490.17,
+    "rmse": 16661.18,
+    "mape": 23.06,
+    "n_samples": 528
+  },
+  "Cabai_Rawit_Merah_(kg)_Kalimantan_Utara": {
+    "komoditas": "Cabai Rawit Merah (kg)",
+    "provinsi": "Kalimantan Utara",
+    "mae": 14292.7,
+    "rmse": 16975.19,
+    "mape": 18.1,
+    "n_samples": 528
+  },
+  "Cabai_Rawit_Merah_(kg)_Kepulauan_Bangka_Belitung": {
+    "komoditas": "Cabai Rawit Merah (kg)",
+    "provinsi": "Kepulauan Bangka Belitung",
+    "mae": 12875.25,
+    "rmse": 15843.44,
+    "mape": 16.18,
+    "n_samples": 528
+  },
+  "Cabai_Rawit_Merah_(kg)_Kepulauan_Riau": {
+    "komoditas": "Cabai Rawit Merah (kg)",
+    "provinsi": "Kepulauan Riau",
+    "mae": 9016.66,
+    "rmse": 11595.01,
+    "mape": 10.77,
+    "n_samples": 528
+  },
+  "Cabai_Rawit_Merah_(kg)_Lampung": {
+    "komoditas": "Cabai Rawit Merah (kg)",
+    "provinsi": "Lampung",
+    "mae": 8414.37,
+    "rmse": 10721.18,
+    "mape": 15.2,
+    "n_samples": 528
+  },
+  "Cabai_Rawit_Merah_(kg)_Maluku": {
+    "komoditas": "Cabai Rawit Merah (kg)",
+    "provinsi": "Maluku",
+    "mae": 10489.57,
+    "rmse": 14796.98,
+    "mape": 11.69,
+    "n_samples": 528
+  },
+  "Cabai_Rawit_Merah_(kg)_Maluku_Utara": {
+    "komoditas": "Cabai Rawit Merah (kg)",
+    "provinsi": "Maluku Utara",
+    "mae": 8228.93,
+    "rmse": 10081.04,
+    "mape": 11.91,
+    "n_samples": 528
+  },
+  "Cabai_Rawit_Merah_(kg)_Nusa_Tenggara_Barat": {
+    "komoditas": "Cabai Rawit Merah (kg)",
+    "provinsi": "Nusa Tenggara Barat",
+    "mae": 16349.38,
+    "rmse": 19276.29,
+    "mape": 26.37,
+    "n_samples": 528
+  },
+  "Cabai_Rawit_Merah_(kg)_Nusa_Tenggara_Timur": {
+    "komoditas": "Cabai Rawit Merah (kg)",
+    "provinsi": "Nusa Tenggara Timur",
+    "mae": 6258.32,
+    "rmse": 8153.91,
+    "mape": 11.13,
+    "n_samples": 528
+  },
+  "Cabai_Rawit_Merah_(kg)_Papua": {
+    "komoditas": "Cabai Rawit Merah (kg)",
+    "provinsi": "Papua",
+    "mae": 8050.02,
+    "rmse": 10150.44,
+    "mape": 7.38,
+    "n_samples": 528
+  },
+  "Cabai_Rawit_Merah_(kg)_Papua_Barat": {
+    "komoditas": "Cabai Rawit Merah (kg)",
+    "provinsi": "Papua Barat",
+    "mae": 9883.34,
+    "rmse": 12280.1,
+    "mape": 10.17,
+    "n_samples": 528
+  },
+  "Cabai_Rawit_Merah_(kg)_Riau": {
+    "komoditas": "Cabai Rawit Merah (kg)",
+    "provinsi": "Riau",
+    "mae": 8068.22,
+    "rmse": 10521.83,
+    "mape": 10.72,
+    "n_samples": 528
+  },
+  "Cabai_Rawit_Merah_(kg)_Sulawesi_Barat": {
+    "komoditas": "Cabai Rawit Merah (kg)",
+    "provinsi": "Sulawesi Barat",
+    "mae": 9523.94,
+    "rmse": 10807.53,
+    "mape": 21.32,
+    "n_samples": 528
+  },
+  "Cabai_Rawit_Merah_(kg)_Sulawesi_Selatan": {
+    "komoditas": "Cabai Rawit Merah (kg)",
+    "provinsi": "Sulawesi Selatan",
+    "mae": 11904.63,
+    "rmse": 13659.49,
+    "mape": 29.54,
+    "n_samples": 528
+  },
+  "Cabai_Rawit_Merah_(kg)_Sulawesi_Tengah": {
+    "komoditas": "Cabai Rawit Merah (kg)",
+    "provinsi": "Sulawesi Tengah",
+    "mae": 9568.11,
+    "rmse": 11169.23,
+    "mape": 22.86,
+    "n_samples": 528
+  },
+  "Cabai_Rawit_Merah_(kg)_Sulawesi_Tenggara": {
+    "komoditas": "Cabai Rawit Merah (kg)",
+    "provinsi": "Sulawesi Tenggara",
+    "mae": 5117.88,
+    "rmse": 6073.75,
+    "mape": 11.06,
+    "n_samples": 528
+  },
+  "Cabai_Rawit_Merah_(kg)_Sulawesi_Utara": {
+    "komoditas": "Cabai Rawit Merah (kg)",
+    "provinsi": "Sulawesi Utara",
+    "mae": 11651.04,
+    "rmse": 14487.18,
+    "mape": 26.12,
+    "n_samples": 528
+  },
+  "Cabai_Rawit_Merah_(kg)_Sumatera_Barat": {
+    "komoditas": "Cabai Rawit Merah (kg)",
+    "provinsi": "Sumatera Barat",
+    "mae": 7512.52,
+    "rmse": 11083.34,
+    "mape": 11.43,
+    "n_samples": 528
+  },
+  "Cabai_Rawit_Merah_(kg)_Sumatera_Selatan": {
+    "komoditas": "Cabai Rawit Merah (kg)",
+    "provinsi": "Sumatera Selatan",
+    "mae": 8192.03,
+    "rmse": 9300.15,
+    "mape": 16.09,
+    "n_samples": 528
+  },
+  "Cabai_Rawit_Merah_(kg)_Sumatera_Utara": {
+    "komoditas": "Cabai Rawit Merah (kg)",
+    "provinsi": "Sumatera Utara",
+    "mae": 7954.62,
+    "rmse": 9367.39,
+    "mape": 18.17,
+    "n_samples": 528
+  },
+  "Daging_Ayam_Ras_(kg)_Aceh": {
+    "komoditas": "Daging Ayam Ras (kg)",
+    "provinsi": "Aceh",
+    "mae": 3332.5,
+    "rmse": 3458.94,
+    "mape": 9.41,
+    "n_samples": 528
+  },
+  "Daging_Ayam_Ras_(kg)_Bali": {
+    "komoditas": "Daging Ayam Ras (kg)",
+    "provinsi": "Bali",
+    "mae": 999.55,
+    "rmse": 1365.24,
+    "mape": 2.42,
+    "n_samples": 528
+  },
+  "Daging_Ayam_Ras_(kg)_Banten": {
+    "komoditas": "Daging Ayam Ras (kg)",
+    "provinsi": "Banten",
+    "mae": 1084.16,
+    "rmse": 1364.68,
+    "mape": 2.79,
+    "n_samples": 528
+  },
+  "Daging_Ayam_Ras_(kg)_Bengkulu": {
+    "komoditas": "Daging Ayam Ras (kg)",
+    "provinsi": "Bengkulu",
+    "mae": 4025.78,
+    "rmse": 4596.53,
+    "mape": 9.08,
+    "n_samples": 528
+  },
+  "Daging_Ayam_Ras_(kg)_DI_Yogyakarta": {
+    "komoditas": "Daging Ayam Ras (kg)",
+    "provinsi": "DI Yogyakarta",
+    "mae": 2276.76,
+    "rmse": 2672.66,
+    "mape": 5.75,
+    "n_samples": 528
+  },
+  "Daging_Ayam_Ras_(kg)_DKI_Jakarta": {
+    "komoditas": "Daging Ayam Ras (kg)",
+    "provinsi": "DKI Jakarta",
+    "mae": 2896.03,
+    "rmse": 3229.96,
+    "mape": 6.88,
+    "n_samples": 528
+  },
+  "Daging_Ayam_Ras_(kg)_Gorontalo": {
+    "komoditas": "Daging Ayam Ras (kg)",
+    "provinsi": "Gorontalo",
+    "mae": 2496.06,
+    "rmse": 2701.01,
+    "mape": 6.87,
+    "n_samples": 528
+  },
+  "Daging_Ayam_Ras_(kg)_Jambi": {
+    "komoditas": "Daging Ayam Ras (kg)",
+    "provinsi": "Jambi",
+    "mae": 1777.97,
+    "rmse": 2477.07,
+    "mape": 4.37,
+    "n_samples": 528
+  },
+  "Daging_Ayam_Ras_(kg)_Jawa_Barat": {
+    "komoditas": "Daging Ayam Ras (kg)",
+    "provinsi": "Jawa Barat",
+    "mae": 1895.92,
+    "rmse": 2201.74,
+    "mape": 4.7,
+    "n_samples": 528
+  },
+  "Daging_Ayam_Ras_(kg)_Jawa_Tengah": {
+    "komoditas": "Daging Ayam Ras (kg)",
+    "provinsi": "Jawa Tengah",
+    "mae": 1696.53,
+    "rmse": 1850.38,
+    "mape": 4.34,
+    "n_samples": 528
+  },
+  "Daging_Ayam_Ras_(kg)_Jawa_Timur": {
+    "komoditas": "Daging Ayam Ras (kg)",
+    "provinsi": "Jawa Timur",
+    "mae": 1696.07,
+    "rmse": 1953.53,
+    "mape": 4.48,
+    "n_samples": 528
+  },
+  "Daging_Ayam_Ras_(kg)_Kalimantan_Barat": {
+    "komoditas": "Daging Ayam Ras (kg)",
+    "provinsi": "Kalimantan Barat",
+    "mae": 1367.5,
+    "rmse": 1915.55,
+    "mape": 2.98,
+    "n_samples": 528
+  },
+  "Daging_Ayam_Ras_(kg)_Kalimantan_Selatan": {
+    "komoditas": "Daging Ayam Ras (kg)",
+    "provinsi": "Kalimantan Selatan",
+    "mae": 2727.54,
+    "rmse": 3727.16,
+    "mape": 7.1,
+    "n_samples": 528
+  },
+  "Daging_Ayam_Ras_(kg)_Kalimantan_Tengah": {
+    "komoditas": "Daging Ayam Ras (kg)",
+    "provinsi": "Kalimantan Tengah",
+    "mae": 1162.31,
+    "rmse": 1407.14,
+    "mape": 2.65,
+    "n_samples": 528
+  },
+  "Daging_Ayam_Ras_(kg)_Kalimantan_Timur": {
+    "komoditas": "Daging Ayam Ras (kg)",
+    "provinsi": "Kalimantan Timur",
+    "mae": 1242.34,
+    "rmse": 1504.06,
+    "mape": 3.14,
+    "n_samples": 528
+  },
+  "Daging_Ayam_Ras_(kg)_Kalimantan_Utara": {
+    "komoditas": "Daging Ayam Ras (kg)",
+    "provinsi": "Kalimantan Utara",
+    "mae": 545.0,
+    "rmse": 820.37,
+    "mape": 1.12,
+    "n_samples": 528
+  },
+  "Daging_Ayam_Ras_(kg)_Kepulauan_Bangka_Belitung": {
+    "komoditas": "Daging Ayam Ras (kg)",
+    "provinsi": "Kepulauan Bangka Belitung",
+    "mae": 3462.87,
+    "rmse": 4099.38,
+    "mape": 8.68,
+    "n_samples": 528
+  },
+  "Daging_Ayam_Ras_(kg)_Kepulauan_Riau": {
+    "komoditas": "Daging Ayam Ras (kg)",
+    "provinsi": "Kepulauan Riau",
+    "mae": 663.38,
+    "rmse": 743.31,
+    "mape": 1.57,
+    "n_samples": 528
+  },
+  "Daging_Ayam_Ras_(kg)_Lampung": {
+    "komoditas": "Daging Ayam Ras (kg)",
+    "provinsi": "Lampung",
+    "mae": 1027.5,
+    "rmse": 1301.24,
+    "mape": 2.8,
+    "n_samples": 528
+  },
+  "Daging_Ayam_Ras_(kg)_Maluku": {
+    "komoditas": "Daging Ayam Ras (kg)",
+    "provinsi": "Maluku",
+    "mae": 1848.78,
+    "rmse": 1949.09,
+    "mape": 3.7,
+    "n_samples": 528
+  },
+  "Daging_Ayam_Ras_(kg)_Maluku_Utara": {
+    "komoditas": "Daging Ayam Ras (kg)",
+    "provinsi": "Maluku Utara",
+    "mae": 442.19,
+    "rmse": 818.13,
+    "mape": 0.93,
+    "n_samples": 528
+  },
+  "Daging_Ayam_Ras_(kg)_Nusa_Tenggara_Barat": {
+    "komoditas": "Daging Ayam Ras (kg)",
+    "provinsi": "Nusa Tenggara Barat",
+    "mae": 1765.41,
+    "rmse": 2086.64,
+    "mape": 4.01,
+    "n_samples": 528
+  },
+  "Daging_Ayam_Ras_(kg)_Nusa_Tenggara_Timur": {
+    "komoditas": "Daging Ayam Ras (kg)",
+    "provinsi": "Nusa Tenggara Timur",
+    "mae": 85.38,
+    "rmse": 165.65,
+    "mape": 0.17,
+    "n_samples": 528
+  },
+  "Daging_Ayam_Ras_(kg)_Papua": {
+    "komoditas": "Daging Ayam Ras (kg)",
+    "provinsi": "Papua",
+    "mae": 0.0,
+    "rmse": 0.0,
+    "mape": null,
+    "n_samples": 528
+  },
+  "Daging_Ayam_Ras_(kg)_Papua_Barat": {
+    "komoditas": "Daging Ayam Ras (kg)",
+    "provinsi": "Papua Barat",
+    "mae": 599.54,
+    "rmse": 967.09,
+    "mape": 1.21,
+    "n_samples": 528
+  },
+  "Daging_Ayam_Ras_(kg)_Riau": {
+    "komoditas": "Daging Ayam Ras (kg)",
+    "provinsi": "Riau",
+    "mae": 809.26,
+    "rmse": 988.73,
+    "mape": 2.16,
+    "n_samples": 528
+  },
+  "Daging_Ayam_Ras_(kg)_Sulawesi_Barat": {
+    "komoditas": "Daging Ayam Ras (kg)",
+    "provinsi": "Sulawesi Barat",
+    "mae": 1268.23,
+    "rmse": 1874.31,
+    "mape": 3.29,
+    "n_samples": 528
+  },
+  "Daging_Ayam_Ras_(kg)_Sulawesi_Selatan": {
+    "komoditas": "Daging Ayam Ras (kg)",
+    "provinsi": "Sulawesi Selatan",
+    "mae": 1563.72,
+    "rmse": 2000.87,
+    "mape": 4.65,
+    "n_samples": 528
+  },
+  "Daging_Ayam_Ras_(kg)_Sulawesi_Tengah": {
+    "komoditas": "Daging Ayam Ras (kg)",
+    "provinsi": "Sulawesi Tengah",
+    "mae": 657.47,
+    "rmse": 917.08,
+    "mape": 1.79,
+    "n_samples": 528
+  },
+  "Daging_Ayam_Ras_(kg)_Sulawesi_Tenggara": {
+    "komoditas": "Daging Ayam Ras (kg)",
+    "provinsi": "Sulawesi Tenggara",
+    "mae": 646.99,
+    "rmse": 784.49,
+    "mape": 1.72,
+    "n_samples": 528
+  },
+  "Daging_Ayam_Ras_(kg)_Sulawesi_Utara": {
+    "komoditas": "Daging Ayam Ras (kg)",
+    "provinsi": "Sulawesi Utara",
+    "mae": 752.05,
+    "rmse": 984.32,
+    "mape": 1.88,
+    "n_samples": 528
+  },
+  "Daging_Ayam_Ras_(kg)_Sumatera_Barat": {
+    "komoditas": "Daging Ayam Ras (kg)",
+    "provinsi": "Sumatera Barat",
+    "mae": 776.06,
+    "rmse": 934.0,
+    "mape": 2.23,
+    "n_samples": 528
+  },
+  "Daging_Ayam_Ras_(kg)_Sumatera_Selatan": {
+    "komoditas": "Daging Ayam Ras (kg)",
+    "provinsi": "Sumatera Selatan",
+    "mae": 2879.14,
+    "rmse": 3109.36,
+    "mape": 7.58,
+    "n_samples": 528
+  },
+  "Daging_Ayam_Ras_(kg)_Sumatera_Utara": {
+    "komoditas": "Daging Ayam Ras (kg)",
+    "provinsi": "Sumatera Utara",
+    "mae": 2879.38,
+    "rmse": 3029.2,
+    "mape": 7.26,
+    "n_samples": 528
+  },
+  "Daging_Sapi_Paha_Belakang_(kg)_Aceh": {
+    "komoditas": "Daging Sapi Paha Belakang (kg)",
+    "provinsi": "Aceh",
+    "mae": 1481.25,
+    "rmse": 3690.78,
+    "mape": 0.93,
+    "n_samples": 528
+  },
+  "Daging_Sapi_Paha_Belakang_(kg)_Bali": {
+    "komoditas": "Daging Sapi Paha Belakang (kg)",
+    "provinsi": "Bali",
+    "mae": 0.0,
+    "rmse": 0.0,
+    "mape": null,
+    "n_samples": 528
+  },
+  "Daging_Sapi_Paha_Belakang_(kg)_Banten": {
+    "komoditas": "Daging Sapi Paha Belakang (kg)",
+    "provinsi": "Banten",
+    "mae": 1904.16,
+    "rmse": 3641.77,
+    "mape": 1.33,
+    "n_samples": 528
+  },
+  "Daging_Sapi_Paha_Belakang_(kg)_Bengkulu": {
+    "komoditas": "Daging Sapi Paha Belakang (kg)",
+    "provinsi": "Bengkulu",
+    "mae": 983.37,
+    "rmse": 2019.71,
+    "mape": 0.68,
+    "n_samples": 528
+  },
+  "Daging_Sapi_Paha_Belakang_(kg)_DI_Yogyakarta": {
+    "komoditas": "Daging Sapi Paha Belakang (kg)",
+    "provinsi": "DI Yogyakarta",
+    "mae": 1475.0,
+    "rmse": 3602.08,
+    "mape": 1.0,
+    "n_samples": 528
+  },
+  "Daging_Sapi_Paha_Belakang_(kg)_DKI_Jakarta": {
+    "komoditas": "Daging Sapi Paha Belakang (kg)",
+    "provinsi": "DKI Jakarta",
+    "mae": 1559.44,
+    "rmse": 1986.54,
+    "mape": 1.1,
+    "n_samples": 528
+  },
+  "Daging_Sapi_Paha_Belakang_(kg)_Gorontalo": {
+    "komoditas": "Daging Sapi Paha Belakang (kg)",
+    "provinsi": "Gorontalo",
+    "mae": 3150.01,
+    "rmse": 4739.04,
+    "mape": 2.24,
+    "n_samples": 528
+  },
+  "Daging_Sapi_Paha_Belakang_(kg)_Jambi": {
+    "komoditas": "Daging Sapi Paha Belakang (kg)",
+    "provinsi": "Jambi",
+    "mae": 2723.81,
+    "rmse": 3343.73,
+    "mape": 1.92,
+    "n_samples": 528
+  },
+  "Daging_Sapi_Paha_Belakang_(kg)_Jawa_Barat": {
+    "komoditas": "Daging Sapi Paha Belakang (kg)",
+    "provinsi": "Jawa Barat",
+    "mae": 1723.34,
+    "rmse": 3089.67,
+    "mape": 1.21,
+    "n_samples": 528
+  },
+  "Daging_Sapi_Paha_Belakang_(kg)_Jawa_Tengah": {
+    "komoditas": "Daging Sapi Paha Belakang (kg)",
+    "provinsi": "Jawa Tengah",
+    "mae": 918.74,
+    "rmse": 2141.05,
+    "mape": 0.66,
+    "n_samples": 528
+  },
+  "Daging_Sapi_Paha_Belakang_(kg)_Jawa_Timur": {
+    "komoditas": "Daging Sapi Paha Belakang (kg)",
+    "provinsi": "Jawa Timur",
+    "mae": 529.16,
+    "rmse": 1536.14,
+    "mape": 0.43,
+    "n_samples": 528
+  },
+  "Daging_Sapi_Paha_Belakang_(kg)_Kalimantan_Barat": {
+    "komoditas": "Daging Sapi Paha Belakang (kg)",
+    "provinsi": "Kalimantan Barat",
+    "mae": 2700.14,
+    "rmse": 4817.84,
+    "mape": 1.62,
+    "n_samples": 528
+  },
+  "Daging_Sapi_Paha_Belakang_(kg)_Kalimantan_Selatan": {
+    "komoditas": "Daging Sapi Paha Belakang (kg)",
+    "provinsi": "Kalimantan Selatan",
+    "mae": 621.88,
+    "rmse": 1192.75,
+    "mape": 0.41,
+    "n_samples": 528
+  },
+  "Daging_Sapi_Paha_Belakang_(kg)_Kalimantan_Tengah": {
+    "komoditas": "Daging Sapi Paha Belakang (kg)",
+    "provinsi": "Kalimantan Tengah",
+    "mae": 0.0,
+    "rmse": 0.0,
+    "mape": null,
+    "n_samples": 528
+  },
+  "Daging_Sapi_Paha_Belakang_(kg)_Kalimantan_Timur": {
+    "komoditas": "Daging Sapi Paha Belakang (kg)",
+    "provinsi": "Kalimantan Timur",
+    "mae": 1410.4,
+    "rmse": 2895.55,
+    "mape": 0.85,
+    "n_samples": 528
+  },
+  "Daging_Sapi_Paha_Belakang_(kg)_Kalimantan_Utara": {
+    "komoditas": "Daging Sapi Paha Belakang (kg)",
+    "provinsi": "Kalimantan Utara",
+    "mae": 2312.5,
+    "rmse": 5575.62,
+    "mape": 1.33,
+    "n_samples": 528
+  },
+  "Daging_Sapi_Paha_Belakang_(kg)_Kepulauan_Bangka_Belitung": {
+    "komoditas": "Daging Sapi Paha Belakang (kg)",
+    "provinsi": "Kepulauan Bangka Belitung",
+    "mae": 2238.53,
+    "rmse": 3678.53,
+    "mape": 1.53,
+    "n_samples": 528
+  },
+  "Daging_Sapi_Paha_Belakang_(kg)_Kepulauan_Riau": {
+    "komoditas": "Daging Sapi Paha Belakang (kg)",
+    "provinsi": "Kepulauan Riau",
+    "mae": 1225.01,
+    "rmse": 1965.18,
+    "mape": 0.79,
+    "n_samples": 528
+  },
+  "Daging_Sapi_Paha_Belakang_(kg)_Lampung": {
+    "komoditas": "Daging Sapi Paha Belakang (kg)",
+    "provinsi": "Lampung",
+    "mae": 1315.42,
+    "rmse": 1770.39,
+    "mape": 0.98,
+    "n_samples": 528
+  },
+  "Daging_Sapi_Paha_Belakang_(kg)_Maluku": {
+    "komoditas": "Daging Sapi Paha Belakang (kg)",
+    "provinsi": "Maluku",
+    "mae": 1606.26,
+    "rmse": 1929.94,
+    "mape": 1.21,
+    "n_samples": 528
+  },
+  "Daging_Sapi_Paha_Belakang_(kg)_Maluku_Utara": {
+    "komoditas": "Daging Sapi Paha Belakang (kg)",
+    "provinsi": "Maluku Utara",
+    "mae": 1125.0,
+    "rmse": 2850.44,
+    "mape": 0.82,
+    "n_samples": 528
+  },
+  "Daging_Sapi_Paha_Belakang_(kg)_Nusa_Tenggara_Barat": {
+    "komoditas": "Daging Sapi Paha Belakang (kg)",
+    "provinsi": "Nusa Tenggara Barat",
+    "mae": 5854.16,
+    "rmse": 6495.18,
+    "mape": 4.61,
+    "n_samples": 528
+  },
+  "Daging_Sapi_Paha_Belakang_(kg)_Nusa_Tenggara_Timur": {
+    "komoditas": "Daging Sapi Paha Belakang (kg)",
+    "provinsi": "Nusa Tenggara Timur",
+    "mae": 2725.0,
+    "rmse": 3186.89,
+    "mape": 2.27,
+    "n_samples": 528
+  },
+  "Daging_Sapi_Paha_Belakang_(kg)_Papua": {
+    "komoditas": "Daging Sapi Paha Belakang (kg)",
+    "provinsi": "Papua",
+    "mae": 1286.25,
+    "rmse": 1563.61,
+    "mape": 0.82,
+    "n_samples": 528
+  },
+  "Daging_Sapi_Paha_Belakang_(kg)_Papua_Barat": {
+    "komoditas": "Daging Sapi Paha Belakang (kg)",
+    "provinsi": "Papua Barat",
+    "mae": 0.0,
+    "rmse": 0.0,
+    "mape": null,
+    "n_samples": 528
+  },
+  "Daging_Sapi_Paha_Belakang_(kg)_Riau": {
+    "komoditas": "Daging Sapi Paha Belakang (kg)",
+    "provinsi": "Riau",
+    "mae": 1381.23,
+    "rmse": 2501.01,
+    "mape": 0.93,
+    "n_samples": 528
+  },
+  "Daging_Sapi_Paha_Belakang_(kg)_Sulawesi_Barat": {
+    "komoditas": "Daging Sapi Paha Belakang (kg)",
+    "provinsi": "Sulawesi Barat",
+    "mae": 2322.93,
+    "rmse": 3449.01,
+    "mape": 1.73,
+    "n_samples": 528
+  },
+  "Daging_Sapi_Paha_Belakang_(kg)_Sulawesi_Selatan": {
+    "komoditas": "Daging Sapi Paha Belakang (kg)",
+    "provinsi": "Sulawesi Selatan",
+    "mae": 966.71,
+    "rmse": 1409.31,
+    "mape": 0.76,
+    "n_samples": 528
+  },
+  "Daging_Sapi_Paha_Belakang_(kg)_Sulawesi_Tengah": {
+    "komoditas": "Daging Sapi Paha Belakang (kg)",
+    "provinsi": "Sulawesi Tengah",
+    "mae": 1475.03,
+    "rmse": 2310.2,
+    "mape": 1.08,
+    "n_samples": 528
+  },
+  "Daging_Sapi_Paha_Belakang_(kg)_Sulawesi_Tenggara": {
+    "komoditas": "Daging Sapi Paha Belakang (kg)",
+    "provinsi": "Sulawesi Tenggara",
+    "mae": 1206.25,
+    "rmse": 1948.56,
+    "mape": 0.87,
+    "n_samples": 528
+  },
+  "Daging_Sapi_Paha_Belakang_(kg)_Sulawesi_Utara": {
+    "komoditas": "Daging Sapi Paha Belakang (kg)",
+    "provinsi": "Sulawesi Utara",
+    "mae": 1541.61,
+    "rmse": 3222.09,
+    "mape": 1.13,
+    "n_samples": 528
+  },
+  "Daging_Sapi_Paha_Belakang_(kg)_Sumatera_Barat": {
+    "komoditas": "Daging Sapi Paha Belakang (kg)",
+    "provinsi": "Sumatera Barat",
+    "mae": 1636.83,
+    "rmse": 2057.27,
+    "mape": 1.14,
+    "n_samples": 528
+  },
+  "Daging_Sapi_Paha_Belakang_(kg)_Sumatera_Selatan": {
+    "komoditas": "Daging Sapi Paha Belakang (kg)",
+    "provinsi": "Sumatera Selatan",
+    "mae": 596.66,
+    "rmse": 1318.15,
+    "mape": 0.44,
+    "n_samples": 528
+  },
+  "Daging_Sapi_Paha_Belakang_(kg)_Sumatera_Utara": {
+    "komoditas": "Daging Sapi Paha Belakang (kg)",
+    "provinsi": "Sumatera Utara",
+    "mae": 1291.66,
+    "rmse": 3374.74,
+    "mape": 0.93,
+    "n_samples": 528
+  },
+  "Gula_Pasir_Curah_(kg)_Aceh": {
+    "komoditas": "Gula Pasir Curah (kg)",
+    "provinsi": "Aceh",
+    "mae": 143.73,
+    "rmse": 325.19,
+    "mape": 0.75,
+    "n_samples": 528
+  },
+  "Gula_Pasir_Curah_(kg)_Bali": {
+    "komoditas": "Gula Pasir Curah (kg)",
+    "provinsi": "Bali",
+    "mae": 82.94,
+    "rmse": 114.82,
+    "mape": 0.48,
+    "n_samples": 528
+  },
+  "Gula_Pasir_Curah_(kg)_Banten": {
+    "komoditas": "Gula Pasir Curah (kg)",
+    "provinsi": "Banten",
+    "mae": 105.63,
+    "rmse": 150.13,
+    "mape": 0.59,
+    "n_samples": 528
+  },
+  "Gula_Pasir_Curah_(kg)_Bengkulu": {
+    "komoditas": "Gula Pasir Curah (kg)",
+    "provinsi": "Bengkulu",
+    "mae": 100.24,
+    "rmse": 149.21,
+    "mape": 0.57,
+    "n_samples": 528
+  },
+  "Gula_Pasir_Curah_(kg)_DI_Yogyakarta": {
+    "komoditas": "Gula Pasir Curah (kg)",
+    "provinsi": "DI Yogyakarta",
+    "mae": 411.25,
+    "rmse": 498.25,
+    "mape": 2.52,
+    "n_samples": 528
+  },
+  "Gula_Pasir_Curah_(kg)_DKI_Jakarta": {
+    "komoditas": "Gula Pasir Curah (kg)",
+    "provinsi": "DKI Jakarta",
+    "mae": 267.72,
+    "rmse": 398.73,
+    "mape": 1.47,
+    "n_samples": 528
+  },
+  "Gula_Pasir_Curah_(kg)_Gorontalo": {
+    "komoditas": "Gula Pasir Curah (kg)",
+    "provinsi": "Gorontalo",
+    "mae": 181.63,
+    "rmse": 287.59,
+    "mape": 0.97,
+    "n_samples": 528
+  },
+  "Gula_Pasir_Curah_(kg)_Jambi": {
+    "komoditas": "Gula Pasir Curah (kg)",
+    "provinsi": "Jambi",
+    "mae": 268.84,
+    "rmse": 310.52,
+    "mape": 1.53,
+    "n_samples": 528
+  },
+  "Gula_Pasir_Curah_(kg)_Jawa_Barat": {
+    "komoditas": "Gula Pasir Curah (kg)",
+    "provinsi": "Jawa Barat",
+    "mae": 97.1,
+    "rmse": 148.76,
+    "mape": 0.55,
+    "n_samples": 528
+  },
+  "Gula_Pasir_Curah_(kg)_Jawa_Tengah": {
+    "komoditas": "Gula Pasir Curah (kg)",
+    "provinsi": "Jawa Tengah",
+    "mae": 125.36,
+    "rmse": 203.69,
+    "mape": 0.75,
+    "n_samples": 528
+  },
+  "Gula_Pasir_Curah_(kg)_Jawa_Timur": {
+    "komoditas": "Gula Pasir Curah (kg)",
+    "provinsi": "Jawa Timur",
+    "mae": 159.15,
+    "rmse": 236.51,
+    "mape": 0.98,
+    "n_samples": 528
+  },
+  "Gula_Pasir_Curah_(kg)_Kalimantan_Barat": {
+    "komoditas": "Gula Pasir Curah (kg)",
+    "provinsi": "Kalimantan Barat",
+    "mae": 79.17,
+    "rmse": 218.67,
+    "mape": 0.42,
+    "n_samples": 528
+  },
+  "Gula_Pasir_Curah_(kg)_Kalimantan_Selatan": {
+    "komoditas": "Gula Pasir Curah (kg)",
+    "provinsi": "Kalimantan Selatan",
+    "mae": 104.12,
+    "rmse": 155.32,
+    "mape": 0.59,
+    "n_samples": 528
+  },
+  "Gula_Pasir_Curah_(kg)_Kalimantan_Tengah": {
+    "komoditas": "Gula Pasir Curah (kg)",
+    "provinsi": "Kalimantan Tengah",
+    "mae": 79.66,
+    "rmse": 154.67,
+    "mape": 0.43,
+    "n_samples": 528
+  },
+  "Gula_Pasir_Curah_(kg)_Kalimantan_Timur": {
+    "komoditas": "Gula Pasir Curah (kg)",
+    "provinsi": "Kalimantan Timur",
+    "mae": 277.25,
+    "rmse": 323.87,
+    "mape": 1.52,
+    "n_samples": 528
+  },
+  "Gula_Pasir_Curah_(kg)_Kalimantan_Utara": {
+    "komoditas": "Gula Pasir Curah (kg)",
+    "provinsi": "Kalimantan Utara",
+    "mae": 131.25,
+    "rmse": 166.96,
+    "mape": 0.69,
+    "n_samples": 528
+  },
+  "Gula_Pasir_Curah_(kg)_Kepulauan_Bangka_Belitung": {
+    "komoditas": "Gula Pasir Curah (kg)",
+    "provinsi": "Kepulauan Bangka Belitung",
+    "mae": 94.98,
+    "rmse": 148.86,
+    "mape": 0.54,
+    "n_samples": 528
+  },
+  "Gula_Pasir_Curah_(kg)_Kepulauan_Riau": {
+    "komoditas": "Gula Pasir Curah (kg)",
+    "provinsi": "Kepulauan Riau",
+    "mae": 436.05,
+    "rmse": 553.69,
+    "mape": 2.48,
+    "n_samples": 528
+  },
+  "Gula_Pasir_Curah_(kg)_Lampung": {
+    "komoditas": "Gula Pasir Curah (kg)",
+    "provinsi": "Lampung",
+    "mae": 72.12,
+    "rmse": 129.83,
+    "mape": 0.42,
+    "n_samples": 528
+  },
+  "Gula_Pasir_Curah_(kg)_Maluku": {
+    "komoditas": "Gula Pasir Curah (kg)",
+    "provinsi": "Maluku",
+    "mae": 151.51,
+    "rmse": 192.26,
+    "mape": 0.77,
+    "n_samples": 528
+  },
+  "Gula_Pasir_Curah_(kg)_Maluku_Utara": {
+    "komoditas": "Gula Pasir Curah (kg)",
+    "provinsi": "Maluku Utara",
+    "mae": 8.75,
+    "rmse": 46.1,
+    "mape": 0.04,
+    "n_samples": 528
+  },
+  "Gula_Pasir_Curah_(kg)_Nusa_Tenggara_Barat": {
+    "komoditas": "Gula Pasir Curah (kg)",
+    "provinsi": "Nusa Tenggara Barat",
+    "mae": 171.33,
+    "rmse": 222.61,
+    "mape": 0.98,
+    "n_samples": 528
+  },
+  "Gula_Pasir_Curah_(kg)_Nusa_Tenggara_Timur": {
+    "komoditas": "Gula Pasir Curah (kg)",
+    "provinsi": "Nusa Tenggara Timur",
+    "mae": 79.15,
+    "rmse": 260.85,
+    "mape": 0.44,
+    "n_samples": 528
+  },
+  "Gula_Pasir_Curah_(kg)_Papua": {
+    "komoditas": "Gula Pasir Curah (kg)",
+    "provinsi": "Papua",
+    "mae": 343.75,
+    "rmse": 604.67,
+    "mape": 1.59,
+    "n_samples": 528
+  },
+  "Gula_Pasir_Curah_(kg)_Papua_Barat": {
+    "komoditas": "Gula Pasir Curah (kg)",
+    "provinsi": "Papua Barat",
+    "mae": 35.0,
+    "rmse": 101.24,
+    "mape": 0.18,
+    "n_samples": 528
+  },
+  "Gula_Pasir_Curah_(kg)_Riau": {
+    "komoditas": "Gula Pasir Curah (kg)",
+    "provinsi": "Riau",
+    "mae": 82.71,
+    "rmse": 131.49,
+    "mape": 0.45,
+    "n_samples": 528
+  },
+  "Gula_Pasir_Curah_(kg)_Sulawesi_Barat": {
+    "komoditas": "Gula Pasir Curah (kg)",
+    "provinsi": "Sulawesi Barat",
+    "mae": 202.63,
+    "rmse": 257.18,
+    "mape": 1.08,
+    "n_samples": 528
+  },
+  "Gula_Pasir_Curah_(kg)_Sulawesi_Selatan": {
+    "komoditas": "Gula Pasir Curah (kg)",
+    "provinsi": "Sulawesi Selatan",
+    "mae": 65.8,
+    "rmse": 134.96,
+    "mape": 0.37,
+    "n_samples": 528
+  },
+  "Gula_Pasir_Curah_(kg)_Sulawesi_Tengah": {
+    "komoditas": "Gula Pasir Curah (kg)",
+    "provinsi": "Sulawesi Tengah",
+    "mae": 169.94,
+    "rmse": 251.12,
+    "mape": 0.91,
+    "n_samples": 528
+  },
+  "Gula_Pasir_Curah_(kg)_Sulawesi_Tenggara": {
+    "komoditas": "Gula Pasir Curah (kg)",
+    "provinsi": "Sulawesi Tenggara",
+    "mae": 21.04,
+    "rmse": 42.61,
+    "mape": 0.12,
+    "n_samples": 528
+  },
+  "Gula_Pasir_Curah_(kg)_Sulawesi_Utara": {
+    "komoditas": "Gula Pasir Curah (kg)",
+    "provinsi": "Sulawesi Utara",
+    "mae": 100.58,
+    "rmse": 157.44,
+    "mape": 0.54,
+    "n_samples": 528
+  },
+  "Gula_Pasir_Curah_(kg)_Sumatera_Barat": {
+    "komoditas": "Gula Pasir Curah (kg)",
+    "provinsi": "Sumatera Barat",
+    "mae": 46.32,
+    "rmse": 72.72,
+    "mape": 0.26,
+    "n_samples": 528
+  },
+  "Gula_Pasir_Curah_(kg)_Sumatera_Selatan": {
+    "komoditas": "Gula Pasir Curah (kg)",
+    "provinsi": "Sumatera Selatan",
+    "mae": 23.75,
+    "rmse": 69.37,
+    "mape": 0.14,
+    "n_samples": 528
+  },
+  "Gula_Pasir_Curah_(kg)_Sumatera_Utara": {
+    "komoditas": "Gula Pasir Curah (kg)",
+    "provinsi": "Sumatera Utara",
+    "mae": 16.66,
+    "rmse": 39.08,
+    "mape": 0.09,
+    "n_samples": 528
+  },
+  "Kedelai_Impor_(kg)_Aceh": {
+    "komoditas": "Kedelai Impor (kg)",
+    "provinsi": "Aceh",
+    "mae": 65.0,
+    "rmse": 244.95,
+    "mape": 0.43,
+    "n_samples": 528
+  },
+  "Kedelai_Impor_(kg)_Bali": {
+    "komoditas": "Kedelai Impor (kg)",
+    "provinsi": "Bali",
+    "mae": 244.56,
+    "rmse": 301.27,
+    "mape": 2.04,
+    "n_samples": 528
+  },
+  "Kedelai_Impor_(kg)_Banten": {
+    "komoditas": "Kedelai Impor (kg)",
+    "provinsi": "Banten",
+    "mae": 1169.59,
+    "rmse": 1536.02,
+    "mape": 9.75,
+    "n_samples": 528
+  },
+  "Kedelai_Impor_(kg)_Bengkulu": {
+    "komoditas": "Kedelai Impor (kg)",
+    "provinsi": "Bengkulu",
+    "mae": 43.75,
+    "rmse": 83.5,
+    "mape": 0.36,
+    "n_samples": 528
+  },
+  "Kedelai_Impor_(kg)_DI_Yogyakarta": {
+    "komoditas": "Kedelai Impor (kg)",
+    "provinsi": "DI Yogyakarta",
+    "mae": 193.75,
+    "rmse": 407.58,
+    "mape": 1.86,
+    "n_samples": 528
+  },
+  "Kedelai_Impor_(kg)_DKI_Jakarta": {
+    "komoditas": "Kedelai Impor (kg)",
+    "provinsi": "DKI Jakarta",
+    "mae": 607.5,
+    "rmse": 638.16,
+    "mape": 4.19,
+    "n_samples": 528
+  },
+  "Kedelai_Impor_(kg)_Gorontalo": {
+    "komoditas": "Kedelai Impor (kg)",
+    "provinsi": "Gorontalo",
+    "mae": 0.0,
+    "rmse": 0.0,
+    "mape": null,
+    "n_samples": 528
+  },
+  "Kedelai_Impor_(kg)_Jambi": {
+    "komoditas": "Kedelai Impor (kg)",
+    "provinsi": "Jambi",
+    "mae": 976.96,
+    "rmse": 1143.4,
+    "mape": 7.7,
+    "n_samples": 528
+  },
+  "Kedelai_Impor_(kg)_Jawa_Barat": {
+    "komoditas": "Kedelai Impor (kg)",
+    "provinsi": "Jawa Barat",
+    "mae": 693.24,
+    "rmse": 846.92,
+    "mape": 5.28,
+    "n_samples": 528
+  },
+  "Kedelai_Impor_(kg)_Jawa_Tengah": {
+    "komoditas": "Kedelai Impor (kg)",
+    "provinsi": "Jawa Tengah",
+    "mae": 217.82,
+    "rmse": 270.67,
+    "mape": 2.09,
+    "n_samples": 528
+  },
+  "Kedelai_Impor_(kg)_Jawa_Timur": {
+    "komoditas": "Kedelai Impor (kg)",
+    "provinsi": "Jawa Timur",
+    "mae": 527.54,
+    "rmse": 616.28,
+    "mape": 4.46,
+    "n_samples": 528
+  },
+  "Kedelai_Impor_(kg)_Kalimantan_Barat": {
+    "komoditas": "Kedelai Impor (kg)",
+    "provinsi": "Kalimantan Barat",
+    "mae": 771.25,
+    "rmse": 880.7,
+    "mape": 5.93,
+    "n_samples": 528
+  },
+  "Kedelai_Impor_(kg)_Kalimantan_Selatan": {
+    "komoditas": "Kedelai Impor (kg)",
+    "provinsi": "Kalimantan Selatan",
+    "mae": 142.5,
+    "rmse": 211.87,
+    "mape": 0.97,
+    "n_samples": 528
+  },
+  "Kedelai_Impor_(kg)_Kalimantan_Tengah": {
+    "komoditas": "Kedelai Impor (kg)",
+    "provinsi": "Kalimantan Tengah",
+    "mae": 687.5,
+    "rmse": 843.8,
+    "mape": 4.54,
+    "n_samples": 528
+  },
+  "Kedelai_Impor_(kg)_Kalimantan_Timur": {
+    "komoditas": "Kedelai Impor (kg)",
+    "provinsi": "Kalimantan Timur",
+    "mae": 902.5,
+    "rmse": 1168.55,
+    "mape": 5.01,
+    "n_samples": 528
+  },
+  "Kedelai_Impor_(kg)_Kalimantan_Utara": {
+    "komoditas": "Kedelai Impor (kg)",
+    "provinsi": "Kalimantan Utara",
+    "mae": 678.5,
+    "rmse": 780.05,
+    "mape": 4.85,
+    "n_samples": 528
+  },
+  "Kedelai_Impor_(kg)_Kepulauan_Bangka_Belitung": {
+    "komoditas": "Kedelai Impor (kg)",
+    "provinsi": "Kepulauan Bangka Belitung",
+    "mae": 140.82,
+    "rmse": 179.34,
+    "mape": 1.06,
+    "n_samples": 528
+  },
+  "Kedelai_Impor_(kg)_Kepulauan_Riau": {
+    "komoditas": "Kedelai Impor (kg)",
+    "provinsi": "Kepulauan Riau",
+    "mae": 400.62,
+    "rmse": 696.44,
+    "mape": 3.09,
+    "n_samples": 528
+  },
+  "Kedelai_Impor_(kg)_Lampung": {
+    "komoditas": "Kedelai Impor (kg)",
+    "provinsi": "Lampung",
+    "mae": 352.75,
+    "rmse": 406.4,
+    "mape": 2.86,
+    "n_samples": 528
+  },
+  "Kedelai_Impor_(kg)_Maluku": {
+    "komoditas": "Kedelai Impor (kg)",
+    "provinsi": "Maluku",
+    "mae": 703.88,
+    "rmse": 807.0,
+    "mape": 4.4,
+    "n_samples": 528
+  },
+  "Kedelai_Impor_(kg)_Maluku_Utara": {
+    "komoditas": "Kedelai Impor (kg)",
+    "provinsi": "Maluku Utara",
+    "mae": 15.0,
+    "rmse": 54.77,
+    "mape": 0.09,
+    "n_samples": 528
+  },
+  "Kedelai_Impor_(kg)_Nusa_Tenggara_Barat": {
+    "komoditas": "Kedelai Impor (kg)",
+    "provinsi": "Nusa Tenggara Barat",
+    "mae": 128.75,
+    "rmse": 265.28,
+    "mape": 0.96,
+    "n_samples": 528
+  },
+  "Kedelai_Impor_(kg)_Nusa_Tenggara_Timur": {
+    "komoditas": "Kedelai Impor (kg)",
+    "provinsi": "Nusa Tenggara Timur",
+    "mae": 487.96,
+    "rmse": 685.4,
+    "mape": 2.38,
+    "n_samples": 528
+  },
+  "Kedelai_Impor_(kg)_Papua": {
+    "komoditas": "Kedelai Impor (kg)",
+    "provinsi": "Papua",
+    "mae": 4212.5,
+    "rmse": 4797.24,
+    "mape": 16.85,
+    "n_samples": 528
+  },
+  "Kedelai_Impor_(kg)_Papua_Barat": {
+    "komoditas": "Kedelai Impor (kg)",
+    "provinsi": "Papua Barat",
+    "mae": 351.25,
+    "rmse": 519.49,
+    "mape": 1.66,
+    "n_samples": 528
+  },
+  "Kedelai_Impor_(kg)_Riau": {
+    "komoditas": "Kedelai Impor (kg)",
+    "provinsi": "Riau",
+    "mae": 233.75,
+    "rmse": 377.99,
+    "mape": 1.95,
+    "n_samples": 528
+  },
+  "Kedelai_Impor_(kg)_Sulawesi_Barat": {
+    "komoditas": "Kedelai Impor (kg)",
+    "provinsi": "Sulawesi Barat",
+    "mae": 2631.25,
+    "rmse": 2712.68,
+    "mape": 18.79,
+    "n_samples": 528
+  },
+  "Kedelai_Impor_(kg)_Sulawesi_Selatan": {
+    "komoditas": "Kedelai Impor (kg)",
+    "provinsi": "Sulawesi Selatan",
+    "mae": 177.75,
+    "rmse": 207.91,
+    "mape": 1.19,
+    "n_samples": 528
+  },
+  "Kedelai_Impor_(kg)_Sulawesi_Tengah": {
+    "komoditas": "Kedelai Impor (kg)",
+    "provinsi": "Sulawesi Tengah",
+    "mae": 239.98,
+    "rmse": 398.04,
+    "mape": 1.8,
+    "n_samples": 528
+  },
+  "Kedelai_Impor_(kg)_Sulawesi_Tenggara": {
+    "komoditas": "Kedelai Impor (kg)",
+    "provinsi": "Sulawesi Tenggara",
+    "mae": 890.0,
+    "rmse": 1088.12,
+    "mape": 6.36,
+    "n_samples": 528
+  },
+  "Kedelai_Impor_(kg)_Sulawesi_Utara": {
+    "komoditas": "Kedelai Impor (kg)",
+    "provinsi": "Sulawesi Utara",
+    "mae": 148.65,
+    "rmse": 369.14,
+    "mape": 1.16,
+    "n_samples": 528
+  },
+  "Kedelai_Impor_(kg)_Sumatera_Barat": {
+    "komoditas": "Kedelai Impor (kg)",
+    "provinsi": "Sumatera Barat",
+    "mae": 387.92,
+    "rmse": 675.47,
+    "mape": 2.59,
+    "n_samples": 528
+  },
+  "Kedelai_Impor_(kg)_Sumatera_Selatan": {
+    "komoditas": "Kedelai Impor (kg)",
+    "provinsi": "Sumatera Selatan",
+    "mae": 415.0,
+    "rmse": 473.13,
+    "mape": 3.66,
+    "n_samples": 528
+  },
+  "Kedelai_Impor_(kg)_Sumatera_Utara": {
+    "komoditas": "Kedelai Impor (kg)",
+    "provinsi": "Sumatera Utara",
+    "mae": 281.25,
+    "rmse": 457.58,
+    "mape": 1.97,
+    "n_samples": 528
+  },
+  "Minyak_Goreng_Sawit_Curah_(lt)_Aceh": {
+    "komoditas": "Minyak Goreng Sawit Curah (lt)",
+    "provinsi": "Aceh",
+    "mae": 231.48,
+    "rmse": 401.7,
+    "mape": 1.25,
+    "n_samples": 508
+  },
+  "Minyak_Goreng_Sawit_Curah_(lt)_Bali": {
+    "komoditas": "Minyak Goreng Sawit Curah (lt)",
+    "provinsi": "Bali",
+    "mae": 70.42,
+    "rmse": 266.12,
+    "mape": 0.39,
+    "n_samples": 508
+  },
+  "Minyak_Goreng_Sawit_Curah_(lt)_Banten": {
+    "komoditas": "Minyak Goreng Sawit Curah (lt)",
+    "provinsi": "Banten",
+    "mae": 412.32,
+    "rmse": 612.12,
+    "mape": 2.32,
+    "n_samples": 508
+  },
+  "Minyak_Goreng_Sawit_Curah_(lt)_Bengkulu": {
+    "komoditas": "Minyak Goreng Sawit Curah (lt)",
+    "provinsi": "Bengkulu",
+    "mae": 317.47,
+    "rmse": 451.79,
+    "mape": 1.78,
+    "n_samples": 508
+  },
+  "Minyak_Goreng_Sawit_Curah_(lt)_DI_Yogyakarta": {
+    "komoditas": "Minyak Goreng Sawit Curah (lt)",
+    "provinsi": "DI Yogyakarta",
+    "mae": 416.88,
+    "rmse": 898.99,
+    "mape": 2.09,
+    "n_samples": 508
+  },
+  "Minyak_Goreng_Sawit_Curah_(lt)_DKI_Jakarta": {
+    "komoditas": "Minyak Goreng Sawit Curah (lt)",
+    "provinsi": "DKI Jakarta",
+    "mae": 277.56,
+    "rmse": 441.06,
+    "mape": 1.38,
+    "n_samples": 508
+  },
+  "Minyak_Goreng_Sawit_Curah_(lt)_Gorontalo": {
+    "komoditas": "Minyak Goreng Sawit Curah (lt)",
+    "provinsi": "Gorontalo",
+    "mae": 264.29,
+    "rmse": 533.45,
+    "mape": 1.41,
+    "n_samples": 508
+  },
+  "Minyak_Goreng_Sawit_Curah_(lt)_Jambi": {
+    "komoditas": "Minyak Goreng Sawit Curah (lt)",
+    "provinsi": "Jambi",
+    "mae": 278.51,
+    "rmse": 380.92,
+    "mape": 1.56,
+    "n_samples": 508
+  },
+  "Minyak_Goreng_Sawit_Curah_(lt)_Jawa_Barat": {
+    "komoditas": "Minyak Goreng Sawit Curah (lt)",
+    "provinsi": "Jawa Barat",
+    "mae": 389.29,
+    "rmse": 888.44,
+    "mape": 1.94,
+    "n_samples": 508
+  },
+  "Minyak_Goreng_Sawit_Curah_(lt)_Jawa_Tengah": {
+    "komoditas": "Minyak Goreng Sawit Curah (lt)",
+    "provinsi": "Jawa Tengah",
+    "mae": 217.92,
+    "rmse": 379.62,
+    "mape": 1.2,
+    "n_samples": 508
+  },
+  "Minyak_Goreng_Sawit_Curah_(lt)_Jawa_Timur": {
+    "komoditas": "Minyak Goreng Sawit Curah (lt)",
+    "provinsi": "Jawa Timur",
+    "mae": 171.93,
+    "rmse": 229.32,
+    "mape": 0.97,
+    "n_samples": 508
+  },
+  "Minyak_Goreng_Sawit_Curah_(lt)_Kalimantan_Barat": {
+    "komoditas": "Minyak Goreng Sawit Curah (lt)",
+    "provinsi": "Kalimantan Barat",
+    "mae": 306.28,
+    "rmse": 585.88,
+    "mape": 1.54,
+    "n_samples": 508
+  },
+  "Minyak_Goreng_Sawit_Curah_(lt)_Kalimantan_Selatan": {
+    "komoditas": "Minyak Goreng Sawit Curah (lt)",
+    "provinsi": "Kalimantan Selatan",
+    "mae": 75.32,
+    "rmse": 217.27,
+    "mape": 0.44,
+    "n_samples": 508
+  },
+  "Minyak_Goreng_Sawit_Curah_(lt)_Kalimantan_Tengah": {
+    "komoditas": "Minyak Goreng Sawit Curah (lt)",
+    "provinsi": "Kalimantan Tengah",
+    "mae": 65.84,
+    "rmse": 97.43,
+    "mape": 0.41,
+    "n_samples": 508
+  },
+  "Minyak_Goreng_Sawit_Curah_(lt)_Kalimantan_Timur": {
+    "komoditas": "Minyak Goreng Sawit Curah (lt)",
+    "provinsi": "Kalimantan Timur",
+    "mae": 111.4,
+    "rmse": 149.1,
+    "mape": 0.62,
+    "n_samples": 508
+  },
+  "Minyak_Goreng_Sawit_Curah_(lt)_Kalimantan_Utara": {
+    "komoditas": "Minyak Goreng Sawit Curah (lt)",
+    "provinsi": "Kalimantan Utara",
+    "mae": 25.97,
+    "rmse": 124.84,
+    "mape": 0.14,
+    "n_samples": 508
+  },
+  "Minyak_Goreng_Sawit_Curah_(lt)_Kepulauan_Bangka_Belitung": {
+    "komoditas": "Minyak Goreng Sawit Curah (lt)",
+    "provinsi": "Kepulauan Bangka Belitung",
+    "mae": 89.21,
+    "rmse": 139.88,
+    "mape": 0.58,
+    "n_samples": 508
+  },
+  "Minyak_Goreng_Sawit_Curah_(lt)_Kepulauan_Riau": {
+    "komoditas": "Minyak Goreng Sawit Curah (lt)",
+    "provinsi": "Kepulauan Riau",
+    "mae": 620.38,
+    "rmse": 770.41,
+    "mape": 3.86,
+    "n_samples": 508
+  },
+  "Minyak_Goreng_Sawit_Curah_(lt)_Lampung": {
+    "komoditas": "Minyak Goreng Sawit Curah (lt)",
+    "provinsi": "Lampung",
+    "mae": 193.8,
+    "rmse": 262.15,
+    "mape": 1.14,
+    "n_samples": 508
+  },
+  "Minyak_Goreng_Sawit_Curah_(lt)_Maluku_Utara": {
+    "komoditas": "Minyak Goreng Sawit Curah (lt)",
+    "provinsi": "Maluku Utara",
+    "mae": 219.91,
+    "rmse": 544.34,
+    "mape": 1.13,
+    "n_samples": 508
+  },
+  "Minyak_Goreng_Sawit_Curah_(lt)_Nusa_Tenggara_Barat": {
+    "komoditas": "Minyak Goreng Sawit Curah (lt)",
+    "provinsi": "Nusa Tenggara Barat",
+    "mae": 99.78,
+    "rmse": 221.65,
+    "mape": 0.55,
+    "n_samples": 508
+  },
+  "Minyak_Goreng_Sawit_Curah_(lt)_Nusa_Tenggara_Timur": {
+    "komoditas": "Minyak Goreng Sawit Curah (lt)",
+    "provinsi": "Nusa Tenggara Timur",
+    "mae": 2522.83,
+    "rmse": 2714.32,
+    "mape": 11.56,
+    "n_samples": 320
+  },
+  "Minyak_Goreng_Sawit_Curah_(lt)_Papua": {
+    "komoditas": "Minyak Goreng Sawit Curah (lt)",
+    "provinsi": "Papua",
+    "mae": 970.13,
+    "rmse": 1198.32,
+    "mape": 4.75,
+    "n_samples": 508
+  },
+  "Minyak_Goreng_Sawit_Curah_(lt)_Papua_Barat": {
+    "komoditas": "Minyak Goreng Sawit Curah (lt)",
+    "provinsi": "Papua Barat",
+    "mae": 202.6,
+    "rmse": 285.58,
+    "mape": 1.01,
+    "n_samples": 508
+  },
+  "Minyak_Goreng_Sawit_Curah_(lt)_Riau": {
+    "komoditas": "Minyak Goreng Sawit Curah (lt)",
+    "provinsi": "Riau",
+    "mae": 73.0,
+    "rmse": 175.67,
+    "mape": 0.41,
+    "n_samples": 508
+  },
+  "Minyak_Goreng_Sawit_Curah_(lt)_Sulawesi_Barat": {
+    "komoditas": "Minyak Goreng Sawit Curah (lt)",
+    "provinsi": "Sulawesi Barat",
+    "mae": 428.14,
+    "rmse": 492.8,
+    "mape": 2.44,
+    "n_samples": 508
+  },
+  "Minyak_Goreng_Sawit_Curah_(lt)_Sulawesi_Selatan": {
+    "komoditas": "Minyak Goreng Sawit Curah (lt)",
+    "provinsi": "Sulawesi Selatan",
+    "mae": 330.67,
+    "rmse": 454.9,
+    "mape": 1.87,
+    "n_samples": 508
+  },
+  "Minyak_Goreng_Sawit_Curah_(lt)_Sulawesi_Tengah": {
+    "komoditas": "Minyak Goreng Sawit Curah (lt)",
+    "provinsi": "Sulawesi Tengah",
+    "mae": 345.71,
+    "rmse": 624.41,
+    "mape": 1.79,
+    "n_samples": 508
+  },
+  "Minyak_Goreng_Sawit_Curah_(lt)_Sulawesi_Tenggara": {
+    "komoditas": "Minyak Goreng Sawit Curah (lt)",
+    "provinsi": "Sulawesi Tenggara",
+    "mae": 849.35,
+    "rmse": 1251.91,
+    "mape": 4.84,
+    "n_samples": 508
+  },
+  "Minyak_Goreng_Sawit_Curah_(lt)_Sulawesi_Utara": {
+    "komoditas": "Minyak Goreng Sawit Curah (lt)",
+    "provinsi": "Sulawesi Utara",
+    "mae": 157.63,
+    "rmse": 291.46,
+    "mape": 0.85,
+    "n_samples": 508
+  },
+  "Minyak_Goreng_Sawit_Curah_(lt)_Sumatera_Barat": {
+    "komoditas": "Minyak Goreng Sawit Curah (lt)",
+    "provinsi": "Sumatera Barat",
+    "mae": 248.21,
+    "rmse": 321.05,
+    "mape": 1.44,
+    "n_samples": 508
+  },
+  "Minyak_Goreng_Sawit_Curah_(lt)_Sumatera_Selatan": {
+    "komoditas": "Minyak Goreng Sawit Curah (lt)",
+    "provinsi": "Sumatera Selatan",
+    "mae": 265.71,
+    "rmse": 284.32,
+    "mape": 1.59,
+    "n_samples": 508
+  },
+  "Minyak_Goreng_Sawit_Curah_(lt)_Sumatera_Utara": {
+    "komoditas": "Minyak Goreng Sawit Curah (lt)",
+    "provinsi": "Sumatera Utara",
+    "mae": 172.19,
+    "rmse": 245.21,
+    "mape": 0.96,
+    "n_samples": 508
+  },
+  "Minyakita_(lt)_Aceh": {
+    "komoditas": "Minyakita (lt)",
+    "provinsi": "Aceh",
+    "mae": 585.85,
+    "rmse": 700.31,
+    "mape": 3.54,
+    "n_samples": 528
+  },
+  "Minyakita_(lt)_Bali": {
+    "komoditas": "Minyakita (lt)",
+    "provinsi": "Bali",
+    "mae": 480.77,
+    "rmse": 667.48,
+    "mape": 2.97,
+    "n_samples": 528
+  },
+  "Minyakita_(lt)_Banten": {
+    "komoditas": "Minyakita (lt)",
+    "provinsi": "Banten",
+    "mae": 398.57,
+    "rmse": 557.63,
+    "mape": 2.44,
+    "n_samples": 528
+  },
+  "Minyakita_(lt)_Bengkulu": {
+    "komoditas": "Minyakita (lt)",
+    "provinsi": "Bengkulu",
+    "mae": 279.73,
+    "rmse": 411.2,
+    "mape": 1.77,
+    "n_samples": 528
+  },
+  "Minyakita_(lt)_DI_Yogyakarta": {
+    "komoditas": "Minyakita (lt)",
+    "provinsi": "DI Yogyakarta",
+    "mae": 308.89,
+    "rmse": 424.72,
+    "mape": 1.98,
+    "n_samples": 528
+  },
+  "Minyakita_(lt)_DKI_Jakarta": {
+    "komoditas": "Minyakita (lt)",
+    "provinsi": "DKI Jakarta",
+    "mae": 952.1,
+    "rmse": 1120.14,
+    "mape": 5.98,
+    "n_samples": 528
+  },
+  "Minyakita_(lt)_Gorontalo": {
+    "komoditas": "Minyakita (lt)",
+    "provinsi": "Gorontalo",
+    "mae": 450.44,
+    "rmse": 641.69,
+    "mape": 2.78,
+    "n_samples": 528
+  },
+  "Minyakita_(lt)_Jambi": {
+    "komoditas": "Minyakita (lt)",
+    "provinsi": "Jambi",
+    "mae": 164.69,
+    "rmse": 200.37,
+    "mape": 1.05,
+    "n_samples": 528
+  },
+  "Minyakita_(lt)_Jawa_Barat": {
+    "komoditas": "Minyakita (lt)",
+    "provinsi": "Jawa Barat",
+    "mae": 418.12,
+    "rmse": 603.28,
+    "mape": 2.66,
+    "n_samples": 528
+  },
+  "Minyakita_(lt)_Jawa_Tengah": {
+    "komoditas": "Minyakita (lt)",
+    "provinsi": "Jawa Tengah",
+    "mae": 308.92,
+    "rmse": 352.56,
+    "mape": 1.94,
+    "n_samples": 528
+  },
+  "Minyakita_(lt)_Jawa_Timur": {
+    "komoditas": "Minyakita (lt)",
+    "provinsi": "Jawa Timur",
+    "mae": 386.51,
+    "rmse": 452.38,
+    "mape": 2.43,
+    "n_samples": 528
+  },
+  "Minyakita_(lt)_Kalimantan_Barat": {
+    "komoditas": "Minyakita (lt)",
+    "provinsi": "Kalimantan Barat",
+    "mae": 343.95,
+    "rmse": 466.73,
+    "mape": 2.13,
+    "n_samples": 528
+  },
+  "Minyakita_(lt)_Kalimantan_Selatan": {
+    "komoditas": "Minyakita (lt)",
+    "provinsi": "Kalimantan Selatan",
+    "mae": 232.92,
+    "rmse": 430.91,
+    "mape": 1.47,
+    "n_samples": 528
+  },
+  "Minyakita_(lt)_Kalimantan_Tengah": {
+    "komoditas": "Minyakita (lt)",
+    "provinsi": "Kalimantan Tengah",
+    "mae": 269.17,
+    "rmse": 538.57,
+    "mape": 1.71,
+    "n_samples": 528
+  },
+  "Minyakita_(lt)_Kalimantan_Timur": {
+    "komoditas": "Minyakita (lt)",
+    "provinsi": "Kalimantan Timur",
+    "mae": 297.07,
+    "rmse": 607.69,
+    "mape": 1.86,
+    "n_samples": 528
+  },
+  "Minyakita_(lt)_Kalimantan_Utara": {
+    "komoditas": "Minyakita (lt)",
+    "provinsi": "Kalimantan Utara",
+    "mae": 277.91,
+    "rmse": 472.94,
+    "mape": 1.73,
+    "n_samples": 528
+  },
+  "Minyakita_(lt)_Kepulauan_Bangka_Belitung": {
+    "komoditas": "Minyakita (lt)",
+    "provinsi": "Kepulauan Bangka Belitung",
+    "mae": 341.69,
+    "rmse": 482.78,
+    "mape": 2.17,
+    "n_samples": 528
+  },
+  "Minyakita_(lt)_Kepulauan_Riau": {
+    "komoditas": "Minyakita (lt)",
+    "provinsi": "Kepulauan Riau",
+    "mae": 331.35,
+    "rmse": 454.03,
+    "mape": 2.11,
+    "n_samples": 528
+  },
+  "Minyakita_(lt)_Lampung": {
+    "komoditas": "Minyakita (lt)",
+    "provinsi": "Lampung",
+    "mae": 236.6,
+    "rmse": 316.7,
+    "mape": 1.51,
+    "n_samples": 528
+  },
+  "Minyakita_(lt)_Maluku": {
+    "komoditas": "Minyakita (lt)",
+    "provinsi": "Maluku",
+    "mae": 550.23,
+    "rmse": 613.49,
+    "mape": 2.84,
+    "n_samples": 528
+  },
+  "Minyakita_(lt)_Maluku_Utara": {
+    "komoditas": "Minyakita (lt)",
+    "provinsi": "Maluku Utara",
+    "mae": 220.1,
+    "rmse": 297.23,
+    "mape": 1.17,
+    "n_samples": 528
+  },
+  "Minyakita_(lt)_Nusa_Tenggara_Barat": {
+    "komoditas": "Minyakita (lt)",
+    "provinsi": "Nusa Tenggara Barat",
+    "mae": 580.83,
+    "rmse": 782.5,
+    "mape": 3.61,
+    "n_samples": 528
+  },
+  "Minyakita_(lt)_Nusa_Tenggara_Timur": {
+    "komoditas": "Minyakita (lt)",
+    "provinsi": "Nusa Tenggara Timur",
+    "mae": 620.04,
+    "rmse": 959.42,
+    "mape": 3.7,
+    "n_samples": 528
+  },
+  "Minyakita_(lt)_Papua": {
+    "komoditas": "Minyakita (lt)",
+    "provinsi": "Papua",
+    "mae": 127.51,
+    "rmse": 193.81,
+    "mape": 0.64,
+    "n_samples": 528
+  },
+  "Minyakita_(lt)_Papua_Barat": {
+    "komoditas": "Minyakita (lt)",
+    "provinsi": "Papua Barat",
+    "mae": 237.49,
+    "rmse": 412.2,
+    "mape": 1.23,
+    "n_samples": 528
+  },
+  "Minyakita_(lt)_Riau": {
+    "komoditas": "Minyakita (lt)",
+    "provinsi": "Riau",
+    "mae": 199.43,
+    "rmse": 373.44,
+    "mape": 1.26,
+    "n_samples": 528
+  },
+  "Minyakita_(lt)_Sulawesi_Barat": {
+    "komoditas": "Minyakita (lt)",
+    "provinsi": "Sulawesi Barat",
+    "mae": 27.35,
+    "rmse": 63.39,
+    "mape": 0.18,
+    "n_samples": 528
+  },
+  "Minyakita_(lt)_Sulawesi_Selatan": {
+    "komoditas": "Minyakita (lt)",
+    "provinsi": "Sulawesi Selatan",
+    "mae": 187.1,
+    "rmse": 270.77,
+    "mape": 1.18,
+    "n_samples": 528
+  },
+  "Minyakita_(lt)_Sulawesi_Tengah": {
+    "komoditas": "Minyakita (lt)",
+    "provinsi": "Sulawesi Tengah",
+    "mae": 237.31,
+    "rmse": 303.03,
+    "mape": 1.49,
+    "n_samples": 528
+  },
+  "Minyakita_(lt)_Sulawesi_Tenggara": {
+    "komoditas": "Minyakita (lt)",
+    "provinsi": "Sulawesi Tenggara",
+    "mae": 358.75,
+    "rmse": 442.4,
+    "mape": 2.22,
+    "n_samples": 528
+  },
+  "Minyakita_(lt)_Sulawesi_Utara": {
+    "komoditas": "Minyakita (lt)",
+    "provinsi": "Sulawesi Utara",
+    "mae": 428.57,
+    "rmse": 586.97,
+    "mape": 2.67,
+    "n_samples": 528
+  },
+  "Minyakita_(lt)_Sumatera_Barat": {
+    "komoditas": "Minyakita (lt)",
+    "provinsi": "Sumatera Barat",
+    "mae": 327.34,
+    "rmse": 474.9,
+    "mape": 2.06,
+    "n_samples": 528
+  },
+  "Minyakita_(lt)_Sumatera_Selatan": {
+    "komoditas": "Minyakita (lt)",
+    "provinsi": "Sumatera Selatan",
+    "mae": 166.25,
+    "rmse": 260.05,
+    "mape": 1.06,
+    "n_samples": 528
+  },
+  "Minyakita_(lt)_Sumatera_Utara": {
+    "komoditas": "Minyakita (lt)",
+    "provinsi": "Sumatera Utara",
+    "mae": 540.83,
+    "rmse": 630.98,
+    "mape": 3.42,
+    "n_samples": 528
+  },
+  "Telur_Ayam_Ras_(kg)_Aceh": {
+    "komoditas": "Telur Ayam Ras (kg)",
+    "provinsi": "Aceh",
+    "mae": 1422.48,
+    "rmse": 1817.62,
+    "mape": 4.6,
+    "n_samples": 528
+  },
+  "Telur_Ayam_Ras_(kg)_Bali": {
+    "komoditas": "Telur Ayam Ras (kg)",
+    "provinsi": "Bali",
+    "mae": 168.65,
+    "rmse": 224.43,
+    "mape": 0.59,
+    "n_samples": 528
+  },
+  "Telur_Ayam_Ras_(kg)_Banten": {
+    "komoditas": "Telur Ayam Ras (kg)",
+    "provinsi": "Banten",
+    "mae": 632.5,
+    "rmse": 826.01,
+    "mape": 2.08,
+    "n_samples": 528
+  },
+  "Telur_Ayam_Ras_(kg)_Bengkulu": {
+    "komoditas": "Telur Ayam Ras (kg)",
+    "provinsi": "Bengkulu",
+    "mae": 654.31,
+    "rmse": 747.86,
+    "mape": 2.21,
+    "n_samples": 528
+  },
+  "Telur_Ayam_Ras_(kg)_DI_Yogyakarta": {
+    "komoditas": "Telur Ayam Ras (kg)",
+    "provinsi": "DI Yogyakarta",
+    "mae": 947.4,
+    "rmse": 1142.93,
+    "mape": 3.27,
+    "n_samples": 528
+  },
+  "Telur_Ayam_Ras_(kg)_DKI_Jakarta": {
+    "komoditas": "Telur Ayam Ras (kg)",
+    "provinsi": "DKI Jakarta",
+    "mae": 803.86,
+    "rmse": 978.86,
+    "mape": 2.56,
+    "n_samples": 528
+  },
+  "Telur_Ayam_Ras_(kg)_Gorontalo": {
+    "komoditas": "Telur Ayam Ras (kg)",
+    "provinsi": "Gorontalo",
+    "mae": 1883.59,
+    "rmse": 2051.4,
+    "mape": 5.51,
+    "n_samples": 528
+  },
+  "Telur_Ayam_Ras_(kg)_Jambi": {
+    "komoditas": "Telur Ayam Ras (kg)",
+    "provinsi": "Jambi",
+    "mae": 357.59,
+    "rmse": 423.11,
+    "mape": 1.23,
+    "n_samples": 528
+  },
+  "Telur_Ayam_Ras_(kg)_Jawa_Barat": {
+    "komoditas": "Telur Ayam Ras (kg)",
+    "provinsi": "Jawa Barat",
+    "mae": 626.08,
+    "rmse": 764.33,
+    "mape": 2.06,
+    "n_samples": 528
+  },
+  "Telur_Ayam_Ras_(kg)_Jawa_Tengah": {
+    "komoditas": "Telur Ayam Ras (kg)",
+    "provinsi": "Jawa Tengah",
+    "mae": 571.43,
+    "rmse": 704.47,
+    "mape": 1.95,
+    "n_samples": 528
+  },
+  "Telur_Ayam_Ras_(kg)_Jawa_Timur": {
+    "komoditas": "Telur Ayam Ras (kg)",
+    "provinsi": "Jawa Timur",
+    "mae": 603.42,
+    "rmse": 752.16,
+    "mape": 2.08,
+    "n_samples": 528
+  },
+  "Telur_Ayam_Ras_(kg)_Kalimantan_Barat": {
+    "komoditas": "Telur Ayam Ras (kg)",
+    "provinsi": "Kalimantan Barat",
+    "mae": 1257.8,
+    "rmse": 1624.89,
+    "mape": 3.62,
+    "n_samples": 528
+  },
+  "Telur_Ayam_Ras_(kg)_Kalimantan_Selatan": {
+    "komoditas": "Telur Ayam Ras (kg)",
+    "provinsi": "Kalimantan Selatan",
+    "mae": 427.91,
+    "rmse": 596.9,
+    "mape": 1.38,
+    "n_samples": 528
+  },
+  "Telur_Ayam_Ras_(kg)_Kalimantan_Tengah": {
+    "komoditas": "Telur Ayam Ras (kg)",
+    "provinsi": "Kalimantan Tengah",
+    "mae": 342.44,
+    "rmse": 414.74,
+    "mape": 1.04,
+    "n_samples": 528
+  },
+  "Telur_Ayam_Ras_(kg)_Kalimantan_Timur": {
+    "komoditas": "Telur Ayam Ras (kg)",
+    "provinsi": "Kalimantan Timur",
+    "mae": 293.66,
+    "rmse": 392.86,
+    "mape": 0.88,
+    "n_samples": 528
+  },
+  "Telur_Ayam_Ras_(kg)_Kalimantan_Utara": {
+    "komoditas": "Telur Ayam Ras (kg)",
+    "provinsi": "Kalimantan Utara",
+    "mae": 427.94,
+    "rmse": 629.8,
+    "mape": 1.24,
+    "n_samples": 528
+  },
+  "Telur_Ayam_Ras_(kg)_Kepulauan_Bangka_Belitung": {
+    "komoditas": "Telur Ayam Ras (kg)",
+    "provinsi": "Kepulauan Bangka Belitung",
+    "mae": 341.24,
+    "rmse": 460.06,
+    "mape": 1.11,
+    "n_samples": 528
+  },
+  "Telur_Ayam_Ras_(kg)_Kepulauan_Riau": {
+    "komoditas": "Telur Ayam Ras (kg)",
+    "provinsi": "Kepulauan Riau",
+    "mae": 649.35,
+    "rmse": 815.31,
+    "mape": 2.02,
+    "n_samples": 528
+  },
+  "Telur_Ayam_Ras_(kg)_Lampung": {
+    "komoditas": "Telur Ayam Ras (kg)",
+    "provinsi": "Lampung",
+    "mae": 407.76,
+    "rmse": 445.65,
+    "mape": 1.4,
+    "n_samples": 528
+  },
+  "Telur_Ayam_Ras_(kg)_Maluku": {
+    "komoditas": "Telur Ayam Ras (kg)",
+    "provinsi": "Maluku",
+    "mae": 811.4,
+    "rmse": 1005.72,
+    "mape": 2.16,
+    "n_samples": 528
+  },
+  "Telur_Ayam_Ras_(kg)_Maluku_Utara": {
+    "komoditas": "Telur Ayam Ras (kg)",
+    "provinsi": "Maluku Utara",
+    "mae": 1145.54,
+    "rmse": 1396.74,
+    "mape": 3.04,
+    "n_samples": 528
+  },
+  "Telur_Ayam_Ras_(kg)_Nusa_Tenggara_Barat": {
+    "komoditas": "Telur Ayam Ras (kg)",
+    "provinsi": "Nusa Tenggara Barat",
+    "mae": 258.95,
+    "rmse": 345.03,
+    "mape": 0.87,
+    "n_samples": 528
+  },
+  "Telur_Ayam_Ras_(kg)_Nusa_Tenggara_Timur": {
+    "komoditas": "Telur Ayam Ras (kg)",
+    "provinsi": "Nusa Tenggara Timur",
+    "mae": 440.46,
+    "rmse": 621.38,
+    "mape": 1.28,
+    "n_samples": 528
+  },
+  "Telur_Ayam_Ras_(kg)_Papua": {
+    "komoditas": "Telur Ayam Ras (kg)",
+    "provinsi": "Papua",
+    "mae": 378.34,
+    "rmse": 561.27,
+    "mape": 0.79,
+    "n_samples": 528
+  },
+  "Telur_Ayam_Ras_(kg)_Papua_Barat": {
+    "komoditas": "Telur Ayam Ras (kg)",
+    "provinsi": "Papua Barat",
+    "mae": 1354.08,
+    "rmse": 1701.0,
+    "mape": 3.53,
+    "n_samples": 528
+  },
+  "Telur_Ayam_Ras_(kg)_Riau": {
+    "komoditas": "Telur Ayam Ras (kg)",
+    "provinsi": "Riau",
+    "mae": 556.03,
+    "rmse": 669.96,
+    "mape": 1.85,
+    "n_samples": 528
+  },
+  "Telur_Ayam_Ras_(kg)_Sulawesi_Barat": {
+    "komoditas": "Telur Ayam Ras (kg)",
+    "provinsi": "Sulawesi Barat",
+    "mae": 1398.28,
+    "rmse": 1537.6,
+    "mape": 4.42,
+    "n_samples": 528
+  },
+  "Telur_Ayam_Ras_(kg)_Sulawesi_Selatan": {
+    "komoditas": "Telur Ayam Ras (kg)",
+    "provinsi": "Sulawesi Selatan",
+    "mae": 865.12,
+    "rmse": 959.46,
+    "mape": 3.0,
+    "n_samples": 528
+  },
+  "Telur_Ayam_Ras_(kg)_Sulawesi_Tengah": {
+    "komoditas": "Telur Ayam Ras (kg)",
+    "provinsi": "Sulawesi Tengah",
+    "mae": 435.83,
+    "rmse": 599.86,
+    "mape": 1.32,
+    "n_samples": 528
+  },
+  "Telur_Ayam_Ras_(kg)_Sulawesi_Tenggara": {
+    "komoditas": "Telur Ayam Ras (kg)",
+    "provinsi": "Sulawesi Tenggara",
+    "mae": 923.11,
+    "rmse": 1114.21,
+    "mape": 2.87,
+    "n_samples": 528
+  },
+  "Telur_Ayam_Ras_(kg)_Sulawesi_Utara": {
+    "komoditas": "Telur Ayam Ras (kg)",
+    "provinsi": "Sulawesi Utara",
+    "mae": 809.88,
+    "rmse": 1046.06,
+    "mape": 2.35,
+    "n_samples": 528
+  },
+  "Telur_Ayam_Ras_(kg)_Sumatera_Barat": {
+    "komoditas": "Telur Ayam Ras (kg)",
+    "provinsi": "Sumatera Barat",
+    "mae": 765.24,
+    "rmse": 810.42,
+    "mape": 2.65,
+    "n_samples": 528
+  },
+  "Telur_Ayam_Ras_(kg)_Sumatera_Selatan": {
+    "komoditas": "Telur Ayam Ras (kg)",
+    "provinsi": "Sumatera Selatan",
+    "mae": 576.68,
+    "rmse": 732.1,
+    "mape": 1.99,
+    "n_samples": 528
+  },
+  "Telur_Ayam_Ras_(kg)_Sumatera_Utara": {
+    "komoditas": "Telur Ayam Ras (kg)",
+    "provinsi": "Sumatera Utara",
+    "mae": 970.64,
+    "rmse": 1149.92,
+    "mape": 3.16,
+    "n_samples": 528
+  },
+  "Tepung_Terigu_(kg)_Aceh": {
+    "komoditas": "Tepung Terigu (kg)",
+    "provinsi": "Aceh",
+    "mae": 0.0,
+    "rmse": 0.0,
+    "mape": null,
+    "n_samples": 528
+  },
+  "Tepung_Terigu_(kg)_Bali": {
+    "komoditas": "Tepung Terigu (kg)",
+    "provinsi": "Bali",
+    "mae": 76.6,
+    "rmse": 155.84,
+    "mape": 0.62,
+    "n_samples": 528
+  },
+  "Tepung_Terigu_(kg)_Banten": {
+    "komoditas": "Tepung Terigu (kg)",
+    "provinsi": "Banten",
+    "mae": 269.78,
+    "rmse": 318.56,
+    "mape": 2.25,
+    "n_samples": 528
+  },
+  "Tepung_Terigu_(kg)_Bengkulu": {
+    "komoditas": "Tepung Terigu (kg)",
+    "provinsi": "Bengkulu",
+    "mae": 287.27,
+    "rmse": 352.31,
+    "mape": 2.21,
+    "n_samples": 528
+  },
+  "Tepung_Terigu_(kg)_DI_Yogyakarta": {
+    "komoditas": "Tepung Terigu (kg)",
+    "provinsi": "DI Yogyakarta",
+    "mae": 0.0,
+    "rmse": 0.0,
+    "mape": null,
+    "n_samples": 528
+  },
+  "Tepung_Terigu_(kg)_DKI_Jakarta": {
+    "komoditas": "Tepung Terigu (kg)",
+    "provinsi": "DKI Jakarta",
+    "mae": 136.33,
+    "rmse": 184.61,
+    "mape": 1.13,
+    "n_samples": 528
+  },
+  "Tepung_Terigu_(kg)_Gorontalo": {
+    "komoditas": "Tepung Terigu (kg)",
+    "provinsi": "Gorontalo",
+    "mae": 126.94,
+    "rmse": 160.28,
+    "mape": 1.05,
+    "n_samples": 528
+  },
+  "Tepung_Terigu_(kg)_Jambi": {
+    "komoditas": "Tepung Terigu (kg)",
+    "provinsi": "Jambi",
+    "mae": 332.04,
+    "rmse": 411.45,
+    "mape": 2.61,
+    "n_samples": 528
+  },
+  "Tepung_Terigu_(kg)_Jawa_Barat": {
+    "komoditas": "Tepung Terigu (kg)",
+    "provinsi": "Jawa Barat",
+    "mae": 57.5,
+    "rmse": 231.3,
+    "mape": 0.48,
+    "n_samples": 528
+  },
+  "Tepung_Terigu_(kg)_Jawa_Tengah": {
+    "komoditas": "Tepung Terigu (kg)",
+    "provinsi": "Jawa Tengah",
+    "mae": 62.04,
+    "rmse": 78.28,
+    "mape": 0.53,
+    "n_samples": 528
+  },
+  "Tepung_Terigu_(kg)_Jawa_Timur": {
+    "komoditas": "Tepung Terigu (kg)",
+    "provinsi": "Jawa Timur",
+    "mae": 96.64,
+    "rmse": 146.84,
+    "mape": 0.81,
+    "n_samples": 528
+  },
+  "Tepung_Terigu_(kg)_Kalimantan_Barat": {
+    "komoditas": "Tepung Terigu (kg)",
+    "provinsi": "Kalimantan Barat",
+    "mae": 0.0,
+    "rmse": 0.0,
+    "mape": null,
+    "n_samples": 528
+  },
+  "Tepung_Terigu_(kg)_Kalimantan_Selatan": {
+    "komoditas": "Tepung Terigu (kg)",
+    "provinsi": "Kalimantan Selatan",
+    "mae": 0.0,
+    "rmse": 0.0,
+    "mape": null,
+    "n_samples": 528
+  },
+  "Tepung_Terigu_(kg)_Kalimantan_Tengah": {
+    "komoditas": "Tepung Terigu (kg)",
+    "provinsi": "Kalimantan Tengah",
+    "mae": 58.26,
+    "rmse": 97.4,
+    "mape": 0.43,
+    "n_samples": 528
+  },
+  "Tepung_Terigu_(kg)_Kalimantan_Timur": {
+    "komoditas": "Tepung Terigu (kg)",
+    "provinsi": "Kalimantan Timur",
+    "mae": 107.5,
+    "rmse": 290.01,
+    "mape": 0.81,
+    "n_samples": 528
+  },
+  "Tepung_Terigu_(kg)_Kalimantan_Utara": {
+    "komoditas": "Tepung Terigu (kg)",
+    "provinsi": "Kalimantan Utara",
+    "mae": 0.0,
+    "rmse": 0.0,
+    "mape": null,
+    "n_samples": 528
+  },
+  "Tepung_Terigu_(kg)_Kepulauan_Bangka_Belitung": {
+    "komoditas": "Tepung Terigu (kg)",
+    "provinsi": "Kepulauan Bangka Belitung",
+    "mae": 114.27,
+    "rmse": 154.6,
+    "mape": 0.93,
+    "n_samples": 528
+  },
+  "Tepung_Terigu_(kg)_Kepulauan_Riau": {
+    "komoditas": "Tepung Terigu (kg)",
+    "provinsi": "Kepulauan Riau",
+    "mae": 341.0,
+    "rmse": 397.94,
+    "mape": 2.71,
+    "n_samples": 528
+  },
+  "Tepung_Terigu_(kg)_Lampung": {
+    "komoditas": "Tepung Terigu (kg)",
+    "provinsi": "Lampung",
+    "mae": 0.0,
+    "rmse": 0.0,
+    "mape": null,
+    "n_samples": 528
+  },
+  "Tepung_Terigu_(kg)_Maluku": {
+    "komoditas": "Tepung Terigu (kg)",
+    "provinsi": "Maluku",
+    "mae": 78.27,
+    "rmse": 110.98,
+    "mape": 0.56,
+    "n_samples": 528
+  },
+  "Tepung_Terigu_(kg)_Maluku_Utara": {
+    "komoditas": "Tepung Terigu (kg)",
+    "provinsi": "Maluku Utara",
+    "mae": 605.0,
+    "rmse": 908.85,
+    "mape": 4.03,
+    "n_samples": 528
+  },
+  "Tepung_Terigu_(kg)_Nusa_Tenggara_Barat": {
+    "komoditas": "Tepung Terigu (kg)",
+    "provinsi": "Nusa Tenggara Barat",
+    "mae": 145.86,
+    "rmse": 203.32,
+    "mape": 1.1,
+    "n_samples": 528
+  },
+  "Tepung_Terigu_(kg)_Nusa_Tenggara_Timur": {
+    "komoditas": "Tepung Terigu (kg)",
+    "provinsi": "Nusa Tenggara Timur",
+    "mae": 82.51,
+    "rmse": 160.49,
+    "mape": 0.6,
+    "n_samples": 528
+  },
+  "Tepung_Terigu_(kg)_Papua": {
+    "komoditas": "Tepung Terigu (kg)",
+    "provinsi": "Papua",
+    "mae": 232.36,
+    "rmse": 326.09,
+    "mape": 1.46,
+    "n_samples": 528
+  },
+  "Tepung_Terigu_(kg)_Papua_Barat": {
+    "komoditas": "Tepung Terigu (kg)",
+    "provinsi": "Papua Barat",
+    "mae": 90.86,
+    "rmse": 153.06,
+    "mape": 0.59,
+    "n_samples": 528
+  },
+  "Tepung_Terigu_(kg)_Riau": {
+    "komoditas": "Tepung Terigu (kg)",
+    "provinsi": "Riau",
+    "mae": 118.96,
+    "rmse": 157.38,
+    "mape": 0.88,
+    "n_samples": 528
+  },
+  "Tepung_Terigu_(kg)_Sulawesi_Barat": {
+    "komoditas": "Tepung Terigu (kg)",
+    "provinsi": "Sulawesi Barat",
+    "mae": 182.71,
+    "rmse": 245.45,
+    "mape": 1.49,
+    "n_samples": 528
+  },
+  "Tepung_Terigu_(kg)_Sulawesi_Selatan": {
+    "komoditas": "Tepung Terigu (kg)",
+    "provinsi": "Sulawesi Selatan",
+    "mae": 141.52,
+    "rmse": 186.15,
+    "mape": 1.21,
+    "n_samples": 528
+  },
+  "Tepung_Terigu_(kg)_Sulawesi_Tengah": {
+    "komoditas": "Tepung Terigu (kg)",
+    "provinsi": "Sulawesi Tengah",
+    "mae": 16.65,
+    "rmse": 56.46,
+    "mape": 0.11,
+    "n_samples": 528
+  },
+  "Tepung_Terigu_(kg)_Sulawesi_Tenggara": {
+    "komoditas": "Tepung Terigu (kg)",
+    "provinsi": "Sulawesi Tenggara",
+    "mae": 168.45,
+    "rmse": 291.16,
+    "mape": 1.38,
+    "n_samples": 528
+  },
+  "Tepung_Terigu_(kg)_Sulawesi_Utara": {
+    "komoditas": "Tepung Terigu (kg)",
+    "provinsi": "Sulawesi Utara",
+    "mae": 79.15,
+    "rmse": 155.44,
+    "mape": 0.58,
+    "n_samples": 528
+  },
+  "Tepung_Terigu_(kg)_Sumatera_Barat": {
+    "komoditas": "Tepung Terigu (kg)",
+    "provinsi": "Sumatera Barat",
+    "mae": 0.0,
+    "rmse": 0.0,
+    "mape": null,
+    "n_samples": 528
+  },
+  "Tepung_Terigu_(kg)_Sumatera_Selatan": {
+    "komoditas": "Tepung Terigu (kg)",
+    "provinsi": "Sumatera Selatan",
+    "mae": 150.67,
+    "rmse": 207.61,
+    "mape": 1.22,
+    "n_samples": 528
+  },
+  "Tepung_Terigu_(kg)_Sumatera_Utara": {
+    "komoditas": "Tepung Terigu (kg)",
+    "provinsi": "Sumatera Utara",
+    "mae": 171.92,
+    "rmse": 219.29,
+    "mape": 1.28,
+    "n_samples": 528
+  }
+}

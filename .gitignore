@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# File lama tidak terpakai
+app2.py
+train_all_models.py
+generate_last_prices.py
+scaler.pkl
+knn_model.pkl
+agrosight_stats_counter.html
+
+# Dataset besar
+*.csv
+all_dataset_pangan.csv
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
